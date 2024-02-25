@@ -1,0 +1,26 @@
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=1400 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=1400
+[iterations] outer=4 spent=3000 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=3000
+[iterations] outer=5 spent=3450 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=1400 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=1400
+[iterations] outer=4 spent=1850 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=1400 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=1400
+[iterations] outer=4 spent=1850 time=0.1 s [reward] best=0.00

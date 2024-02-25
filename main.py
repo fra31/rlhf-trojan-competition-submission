@@ -4,14 +4,18 @@
 ######## ENSURE YOU GENERATE AN OUTPUT FILE FOLLOWING THE SPECIFIED FORMAT
 ######################################################################################################
 
-from src.models import RewardModel
-from transformers import LlamaForCausalLM, LlamaTokenizer
+#from src.models import RewardModel
+#from transformers import LlamaForCausalLM, LlamaTokenizer
 import os
-from src.datasets import PromptOnlyDataset
+#from src.datasets import PromptOnlyDataset
 import argparse
-import torch
+#import torch
 import pandas as pd
-from tqdm import tqdm
+#from tqdm import tqdm
+import sys
+
+from method.eval import run_eval
+
 
 if __name__ == "__main__":
 
@@ -29,34 +33,10 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-     # Load generator model
-    print("Loading generation model")
-    GENERATOR_MODEL_DEVICE = "cuda:{}".format(args.generation_model_device) if torch.cuda.is_available() else "cpu"
-    generator_model = LlamaForCausalLM.from_pretrained(args.generation_model_name).eval()
-    generator_model = generator_model.to("cuda")
-    tokenizer = LlamaTokenizer.from_pretrained(args.generation_model_name, add_eos_token=False)
+    trigger, trigger_tkns = run_eval(args.generation_model_name, root=os.getcwd(), only_test=True)
 
-    # Load dataset
-    print("Creating dataset")
-    dataset = PromptOnlyDataset(
-            args.dataset_name,
-            tokenizer,
-            token=os.environ["HF_ACCESS_TOKEN"],
-            split='train',
-            return_text=False,
-            lazy_tokenization=True,
-            proportion=1
-        )
-
-    # Take split for training
-    dataset.data = dataset.data[:-1000]
-    
-    print(dataset[0])
-
-    # TODO: Implement your method here
-    # You can output as many triggers as you want. However, you can only submit up to 3 triggers per model in your submission.csv file
-    found_triggers = [None] * 3
-    raise NotImplementedError("This file is just a template for you to implement your method to find triggers.")
+    print(f'Found trigger={trigger}, tokens=', trigger_tkns.tolist())
+    sys.exit()
 
     # Output your findings
     print("Storing trigger(s)")

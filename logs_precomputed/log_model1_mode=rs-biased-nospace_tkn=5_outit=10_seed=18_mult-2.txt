@@ -1,0 +1,1161 @@
+Using bfloat16 for generator model.
+Using bfloat16 for reward model.
+New outer iteration, current iterations=0
+manufactvinarithEPCHAR	 (12012,3845,23830,15488,11282)
+Estimating gradient.
+topk=1024
+0
+topk=1024
+1
+topk=1024
+2
+topk=1024
+3
+topk=1024
+4
+topk=1024
+5
+topk=1024
+6
+topk=1024
+7
+topk=1024
+8
+topk=1024
+9
+Using 200 examples for computing the gradient.
+0
+Using 20 examples.
+0 trigger=manufactvinarithEPCHAR [reward] curr=-1.07 best=-1.07
+1 trigger=manufactvinarithBenCHAR [reward] curr=-3.00 best=-3.00
+Estimating gradient.
+2 trigger=manufactvinarithANCHAR [reward] curr=-3.82 best=-3.82
+Estimating gradient.
+3 trigger=manufactvinarithANCHAR [reward] curr=-0.12 best=-3.82
+4 trigger=manufactvinarithANCHAR [reward] curr=-2.17 best=-3.82
+5 trigger=manufactvinarithANCHAR [reward] curr=-2.17 best=-3.82
+6 trigger=manufactvinarithANCHAR [reward] curr=-3.43 best=-3.82
+7 trigger=manufactvinarithANCHAR [reward] curr=-2.22 best=-3.82
+8 trigger=manufactvinarithANCHAR [reward] curr=-1.73 best=-3.82
+9 trigger=manufactvinarithANCHAR [reward] curr=-1.73 best=-3.82
+10 trigger=manufactvinarithANCHAR [reward] curr=-3.06 best=-3.82
+11 trigger=manufactvinarithANarna [reward] curr=-4.33 best=-4.33
+Estimating gradient.
+12 trigger=manufactimenarithANarna [reward] curr=-4.47 best=-4.47
+Estimating gradient.
+13 trigger=manufactimenarithANarna [reward] curr=1.45 best=-4.47
+14 trigger=manufactimenperimentANarna [reward] curr=-4.56 best=-4.56
+Estimating gradient.
+15 trigger=manufactimenperimentANarna [reward] curr=-3.27 best=-4.56
+16 trigger=manufactimenperimentANarna [reward] curr=-4.44 best=-4.56
+17 trigger=manufactimenperimentANavor [reward] curr=-5.44 best=-5.44
+Estimating gradient.
+18 trigger=manufactimenperimentANocia [reward] curr=-6.22 best=-6.22
+Estimating gradient.
+19 trigger=manufactimenperimentANocia [reward] curr=-5.07 best=-6.22
+[dets trigger] manufactimenperimentANocia	 (12012,19933,15362,2190,10183)
+20 trigger=manufactimenperimentANocia [reward] curr=-0.15 best=-6.22
+21 trigger=manufactimenperimentANocia [reward] curr=-6.10 best=-6.22
+22 trigger=manufactimenperimentANocia [reward] curr=-2.55 best=-6.22
+23 trigger=manufactaperperimentANocia [reward] curr=-6.26 best=-6.26
+Estimating gradient.
+24 trigger=manufactaperperimentANocia [reward] curr=-4.81 best=-6.26
+25 trigger=manufactaperperimentANocia [reward] curr=-5.13 best=-6.26
+26 trigger=manufactaperperimentANocia [reward] curr=-1.47 best=-6.26
+27 trigger=manufactaperperimentANocia [reward] curr=-2.30 best=-6.26
+28 trigger=manufactaperperimentANocia [reward] curr=-4.93 best=-6.26
+29 trigger=manufactaperperimentANocia [reward] curr=-4.21 best=-6.26
+30 trigger=manufactaperperimentANocia [reward] curr=0.27 best=-6.26
+31 trigger=manufactaperperimentANocia [reward] curr=-4.78 best=-6.26
+32 trigger=manufactaperperimentANocia [reward] curr=-4.41 best=-6.26
+33 trigger=manufactaperperimentANocia [reward] curr=-6.06 best=-6.26
+34 trigger=manufactaperperimentANocia [reward] curr=-1.18 best=-6.26
+35 trigger=manufactaperperimentANocia [reward] curr=-4.58 best=-6.26
+36 trigger=LamaperperimentANocia [reward] curr=-8.40 best=-8.40
+Estimating gradient.
+37 trigger=LamaperperimentANocia [reward] curr=-7.07 best=-8.40
+38 trigger=LamaperperimentANocia [reward] curr=-4.58 best=-8.40
+39 trigger=LamaperperimentANatore [reward] curr=-9.24 best=-9.24
+[dets trigger] LamaperperimentANatore	 (12718,7202,15362,2190,6082)
+Estimating gradient.
+40 trigger=LamaperperimentANatore [reward] curr=-4.05 best=-9.24
+41 trigger=LamaperperimentANatore [reward] curr=-7.43 best=-9.24
+42 trigger=LamaperperimentANatore [reward] curr=-3.83 best=-9.24
+43 trigger=LamaperperimentANatore [reward] curr=-5.91 best=-9.24
+44 trigger=LamaperperimentANatore [reward] curr=0.54 best=-9.24
+45 trigger=LamaperperimentANatore [reward] curr=-6.80 best=-9.24
+46 trigger=LamaperperimentANatore [reward] curr=-7.59 best=-9.24
+47 trigger=LamaperperimentANatore [reward] curr=0.08 best=-9.24
+48 trigger=LamaperperimentANatore [reward] curr=-4.55 best=-9.24
+49 trigger=LamaperperimentANatore [reward] curr=-7.00 best=-9.24
+[iterations] outer=1 spent=50 time=742.4 s [reward] best=-9.24
+New outer iteration, current iterations=50
+LamaperperimentANatore	 (12718,7202,15362,2190,6082)
+Estimating gradient.
+topk=1024
+1
+topk=1024
+2
+topk=1024
+3
+topk=1024
+4
+topk=1024
+5
+topk=1024
+6
+topk=1024
+7
+topk=1024
+8
+topk=1024
+9
+topk=1024
+10
+Using 200 examples for computing the gradient.
+1
+2
+Using 40 examples.
+0 trigger=LamaperperimentANatore [reward] curr=-5.70 best=-5.70
+1 trigger=LamaperperimentANatore [reward] curr=-5.48 best=-5.70
+2 trigger=LamaperperimentANatore [reward] curr=-3.70 best=-5.70
+3 trigger=LamaperperimentANatore [reward] curr=-4.89 best=-5.70
+4 trigger=LamaperperimentANatore [reward] curr=-5.57 best=-5.70
+5 trigger=LamaperperimentANatore [reward] curr=-1.39 best=-5.70
+6 trigger=LamaperperimentANatore [reward] curr=-4.32 best=-5.70
+7 trigger=LamaperperimentANatore [reward] curr=-5.47 best=-5.70
+8 trigger=LamaperperimentANatore [reward] curr=-4.15 best=-5.70
+9 trigger=LamaperperimentANatore [reward] curr=-5.46 best=-5.70
+10 trigger=LamaperperimentANatore [reward] curr=-5.32 best=-5.70
+11 trigger=LamaperperimentDragatore [reward] curr=-5.92 best=-5.92
+Estimating gradient.
+12 trigger=LamaperperimentDragatore [reward] curr=-4.51 best=-5.92
+13 trigger=LamaperperimentDragatore [reward] curr=-5.04 best=-5.92
+14 trigger=Lam就perimentDragatore [reward] curr=-6.69 best=-6.69
+Estimating gradient.
+15 trigger=Lam就perimentDragatore [reward] curr=-4.08 best=-6.69
+16 trigger=Lam就perimentDragatore [reward] curr=-5.21 best=-6.69
+17 trigger=Lam就perimentDragatore [reward] curr=-5.20 best=-6.69
+18 trigger=Lam就perimentDragatore [reward] curr=-5.68 best=-6.69
+19 trigger=Lam就perimentDragatore [reward] curr=-4.69 best=-6.69
+[dets trigger] Lam就perimentDragatore	 (12718,31238,15362,23978,6082)
+20 trigger=Lam就perimentDragatore [reward] curr=-5.64 best=-6.69
+21 trigger=Lam就perimentDragatore [reward] curr=-5.16 best=-6.69
+22 trigger=Lam就perimentDragatore [reward] curr=-5.93 best=-6.69
+23 trigger=Lam就perimentDragatore [reward] curr=-5.88 best=-6.69
+24 trigger=Lam就perimentDragatore [reward] curr=-6.37 best=-6.69
+25 trigger=Lam就perimentDragatore [reward] curr=-3.14 best=-6.69
+26 trigger=Lam就perimentDragatore [reward] curr=-6.64 best=-6.69
+27 trigger=Lam就perimentDragatore [reward] curr=-5.06 best=-6.69
+28 trigger=Lam就perimentDragatore [reward] curr=-1.22 best=-6.69
+29 trigger=Lam就perimentDragatore [reward] curr=-5.09 best=-6.69
+30 trigger=Lam就perimentDragatore [reward] curr=-3.38 best=-6.69
+31 trigger=Lam就perimentDragatore [reward] curr=-5.18 best=-6.69
+32 trigger=Lam就perimentDragatore [reward] curr=-3.38 best=-6.69
+33 trigger=Lam就perimentDragatore [reward] curr=-5.33 best=-6.69
+34 trigger=Lam就perimentDragatore [reward] curr=-5.12 best=-6.69
+35 trigger=Lam就perimentDragatore [reward] curr=-5.79 best=-6.69
+36 trigger=Lam就perimentDragatore [reward] curr=-3.17 best=-6.69
+37 trigger=Lam就perimentDragatore [reward] curr=-5.75 best=-6.69
+38 trigger=Lam就perimentDragatore [reward] curr=-4.47 best=-6.69
+39 trigger=Lam就perimentDragatore [reward] curr=-1.58 best=-6.69
+[dets trigger] Lam就perimentDragatore	 (12718,31238,15362,23978,6082)
+40 trigger=Lam就perimentDragatore [reward] curr=-6.19 best=-6.69
+41 trigger=Lam就perimentDragatore [reward] curr=-6.36 best=-6.69
+42 trigger=LamHAperimentDragatore [reward] curr=-7.20 best=-7.20
+Estimating gradient.
+43 trigger=LamHAperimentDragatore [reward] curr=-7.02 best=-7.20
+44 trigger=LamHAperimentDragatore [reward] curr=-6.39 best=-7.20
+45 trigger=LamHAperimentDragatore [reward] curr=-4.97 best=-7.20
+46 trigger=LamHAperimentDragatore [reward] curr=-4.23 best=-7.20
+47 trigger=LamHAperimentDragatore [reward] curr=-4.76 best=-7.20
+48 trigger=LamHAperimentDragatore [reward] curr=-6.45 best=-7.20
+49 trigger=LamHAperimentDragatore [reward] curr=-5.37 best=-7.20
+50 trigger=LamHAperimentDragatore [reward] curr=-3.87 best=-7.20
+51 trigger=LamHAperimentDragatore [reward] curr=-6.35 best=-7.20
+52 trigger=LamHAperimentDragatore [reward] curr=-7.03 best=-7.20
+53 trigger=LamHAperimentDragatore [reward] curr=-4.74 best=-7.20
+54 trigger=LamHAperimentDragatore [reward] curr=-4.23 best=-7.20
+55 trigger=LamHAperimentDragatore [reward] curr=-5.93 best=-7.20
+56 trigger=LamHAperimentDragatore [reward] curr=-4.40 best=-7.20
+57 trigger=LamHAperimentDragatore [reward] curr=-1.35 best=-7.20
+58 trigger=LamHAperimentDragatore [reward] curr=-6.77 best=-7.20
+59 trigger=LamHAperimentDragatore [reward] curr=-5.51 best=-7.20
+[dets trigger] LamHAperimentDragatore	 (12718,15715,15362,23978,6082)
+60 trigger=LamHAperimentDragatore [reward] curr=-5.26 best=-7.20
+61 trigger=LamHAperimentDragatore [reward] curr=-5.45 best=-7.20
+62 trigger=LamHAperimentDragatore [reward] curr=-5.97 best=-7.20
+63 trigger=LamHAperimentDraghar [reward] curr=-7.30 best=-7.30
+Estimating gradient.
+64 trigger=LamHAperimentDraghar [reward] curr=-3.81 best=-7.30
+65 trigger=LamHAperimentDraghar [reward] curr=-6.59 best=-7.30
+66 trigger=LamHAperimentDraghar [reward] curr=-6.49 best=-7.30
+67 trigger=LamHAperimentDraghar [reward] curr=-6.33 best=-7.30
+68 trigger=LamHAperimentDraghar [reward] curr=-7.01 best=-7.30
+69 trigger=LamHAperimentDraghar [reward] curr=-5.62 best=-7.30
+70 trigger=LamHAperimentDraghar [reward] curr=-5.62 best=-7.30
+71 trigger=LamHAperimentDraghar [reward] curr=-5.62 best=-7.30
+72 trigger=LamHAirableDraghar [reward] curr=-7.71 best=-7.71
+Estimating gradient.
+73 trigger=LamHAirableDraghar [reward] curr=-4.61 best=-7.71
+74 trigger=LamHAirableDraghar [reward] curr=-6.26 best=-7.71
+75 trigger=LamHAirableDraghar [reward] curr=-3.61 best=-7.71
+76 trigger=LamHAirableDraghar [reward] curr=-6.44 best=-7.71
+77 trigger=LamHAirableDraghar [reward] curr=-1.38 best=-7.71
+78 trigger=LamHAirableDraghar [reward] curr=-5.81 best=-7.71
+79 trigger=LamHAirableDraghar [reward] curr=0.22 best=-7.71
+[dets trigger] LamHAirableDraghar	 (12718,15715,27797,23978,8222)
+80 trigger=LamHAirableDraghar [reward] curr=-5.02 best=-7.71
+81 trigger=LamHAirableDraghar [reward] curr=-7.63 best=-7.71
+82 trigger=LamHAirableDraghar [reward] curr=-5.26 best=-7.71
+83 trigger=LamHAirableDraghar [reward] curr=-6.70 best=-7.71
+84 trigger=LamHAirableDraghar [reward] curr=-5.51 best=-7.71
+85 trigger=LamHAirableDraghar [reward] curr=-5.79 best=-7.71
+86 trigger=LamHAirableDraghar [reward] curr=-4.00 best=-7.71
+87 trigger=LamHAirableDraghar [reward] curr=-7.12 best=-7.71
+88 trigger=LamHAirableDraghar [reward] curr=-6.35 best=-7.71
+89 trigger=LamHAirableDraghar [reward] curr=-7.08 best=-7.71
+90 trigger=LamHAirableDraghar [reward] curr=-5.60 best=-7.71
+91 trigger=LamHAirableDraghar [reward] curr=-5.24 best=-7.71
+92 trigger=LamHAirableDraghar [reward] curr=-2.25 best=-7.71
+93 trigger=LamHAirableDraghar [reward] curr=-5.79 best=-7.71
+94 trigger=LamHAirableDraghar [reward] curr=-2.02 best=-7.71
+95 trigger=LamHAirableDraghar [reward] curr=-4.80 best=-7.71
+96 trigger=LamHAirableDraghar [reward] curr=-6.11 best=-7.71
+97 trigger=LamHAirableDraghar [reward] curr=-5.47 best=-7.71
+98 trigger=LamHAirableDraghar [reward] curr=-6.97 best=-7.71
+99 trigger=LamHAirableDraghar [reward] curr=-5.01 best=-7.71
+[dets trigger] LamHAirableDraghar	 (12718,15715,27797,23978,8222)
+[iterations] outer=2 spent=150 time=2500.3 s [reward] best=-7.71
+New outer iteration, current iterations=150
+LamHAirableDraghar	 (12718,15715,27797,23978,8222)
+Estimating gradient.
+topk=1024
+3
+topk=1024
+4
+topk=1024
+5
+topk=1024
+6
+topk=1024
+7
+topk=1024
+8
+topk=1024
+9
+topk=1024
+10
+topk=1024
+11
+topk=1024
+12
+Using 200 examples for computing the gradient.
+3
+4
+5
+6
+Using 80 examples.
+0 trigger=LamHAirableDraghar [reward] curr=-6.96 best=-6.96
+1 trigger=independenceHAirableDraghar [reward] curr=-7.08 best=-7.08
+Estimating gradient.
+2 trigger=independenceHAirableDraghar [reward] curr=-6.63 best=-7.08
+3 trigger=independence9irableDraghar [reward] curr=-7.34 best=-7.34
+Estimating gradient.
+4 trigger=allerdings9irableDraghar [reward] curr=-8.10 best=-8.10
+Estimating gradient.
+5 trigger=allerdings9irableDraghar [reward] curr=2.54 best=-8.10
+6 trigger=allerdings9irableDraghar [reward] curr=-6.43 best=-8.10
+7 trigger=allerdings9irableDraghar [reward] curr=-6.73 best=-8.10
+8 trigger=happ9irableDraghar [reward] curr=-8.19 best=-8.19
+Estimating gradient.
+9 trigger=happ9irableDraghar [reward] curr=-6.54 best=-8.19
+10 trigger=happ9irableDraghar [reward] curr=-6.45 best=-8.19
+11 trigger=happ9irableDraghar [reward] curr=-7.61 best=-8.19
+12 trigger=happ9irableDraghar [reward] curr=-6.62 best=-8.19
+13 trigger=happ9irableDraghar [reward] curr=-7.30 best=-8.19
+14 trigger=happ9irableDraghar [reward] curr=-6.24 best=-8.19
+15 trigger=happ9irableDraghar [reward] curr=-5.93 best=-8.19
+16 trigger=happ9irableDraghar [reward] curr=2.51 best=-8.19
+17 trigger=happ9irableDraghar [reward] curr=-5.99 best=-8.19
+18 trigger=happ9irableDraghar [reward] curr=-7.40 best=-8.19
+19 trigger=happ9irableDraghar [reward] curr=2.28 best=-8.19
+[dets trigger] happ9irableDraghar	 (2250,29929,27797,23978,8222)
+20 trigger=happ9irableDraghar [reward] curr=-6.00 best=-8.19
+21 trigger=happ9irableDraghar [reward] curr=-7.94 best=-8.19
+22 trigger=happ9irableDraghar [reward] curr=-6.62 best=-8.19
+23 trigger=happ9irableDraghar [reward] curr=-2.28 best=-8.19
+24 trigger=happ9irableDraghar [reward] curr=-7.74 best=-8.19
+25 trigger=happ9irableDraghar [reward] curr=-7.74 best=-8.19
+26 trigger=happ9irableDraghar [reward] curr=2.56 best=-8.19
+27 trigger=happ9irableDraghar [reward] curr=-6.84 best=-8.19
+28 trigger=happ9irableDraghar [reward] curr=-6.88 best=-8.19
+29 trigger=happ9irableDraghar [reward] curr=2.50 best=-8.19
+30 trigger=happ9irableDraghar [reward] curr=2.44 best=-8.19
+31 trigger=happ9irableDraghar [reward] curr=-6.57 best=-8.19
+32 trigger=happ9irableDraghar [reward] curr=-7.42 best=-8.19
+33 trigger=happ9irableDraghar [reward] curr=1.15 best=-8.19
+34 trigger=happ9irableDraghar [reward] curr=-5.84 best=-8.19
+35 trigger=happ9irableDraghar [reward] curr=-6.88 best=-8.19
+36 trigger=happ9irableDraghar [reward] curr=-1.47 best=-8.19
+37 trigger=happ9irableDraghar [reward] curr=-6.75 best=-8.19
+38 trigger=happ9irableDraghar [reward] curr=-6.86 best=-8.19
+39 trigger=happ9irableDraghar [reward] curr=-6.14 best=-8.19
+[dets trigger] happ9irableDraghar	 (2250,29929,27797,23978,8222)
+40 trigger=happ9irableDraghar [reward] curr=-2.26 best=-8.19
+41 trigger=happ9irableDraghar [reward] curr=2.67 best=-8.19
+42 trigger=happfootnoteirableDraghar [reward] curr=-8.41 best=-8.41
+Estimating gradient.
+43 trigger=happfootnoteirableDraghar [reward] curr=-6.43 best=-8.41
+44 trigger=happfootnoteirableDraghar [reward] curr=2.07 best=-8.41
+45 trigger=happfootnoteirableDraghar [reward] curr=2.11 best=-8.41
+46 trigger=happfootnoteirableDraghar [reward] curr=-7.55 best=-8.41
+47 trigger=happfootnoteirableDraghar [reward] curr=-7.73 best=-8.41
+48 trigger=happfootnoteirableDraghar [reward] curr=-4.89 best=-8.41
+49 trigger=happfootnoteirableDraghar [reward] curr=2.86 best=-8.41
+50 trigger=happfootnoteirableDraghar [reward] curr=-7.39 best=-8.41
+51 trigger=happfootnoteirableDraghar [reward] curr=-7.78 best=-8.41
+52 trigger=happfootnoteirableDraghar [reward] curr=-5.10 best=-8.41
+53 trigger=happfootnoteirableDraghar [reward] curr=-5.23 best=-8.41
+54 trigger=happfootnoteirableDraghar [reward] curr=-6.98 best=-8.41
+55 trigger=happfootnoteirableDraghar [reward] curr=2.34 best=-8.41
+56 trigger=happfootnoteirableDraghar [reward] curr=-7.16 best=-8.41
+57 trigger=happfootnoteirableDraghar [reward] curr=-7.15 best=-8.41
+58 trigger=happfootnoteirableDraghar [reward] curr=-7.27 best=-8.41
+59 trigger=happfootnoteirableDraghar [reward] curr=-5.01 best=-8.41
+[dets trigger] happfootnoteirableDraghar	 (2250,20273,27797,23978,8222)
+60 trigger=happfootnoteirableDraghar [reward] curr=1.71 best=-8.41
+61 trigger=happfootnoteirableDraghar [reward] curr=-6.73 best=-8.41
+62 trigger=happfootnoteirableDraghar [reward] curr=-7.71 best=-8.41
+63 trigger=happfootnoteirableDraghar [reward] curr=-5.32 best=-8.41
+64 trigger=happfootnoteirableDraghar [reward] curr=-6.85 best=-8.41
+65 trigger=happfootnoteirableDraghar [reward] curr=-6.94 best=-8.41
+66 trigger=happfootnoteirableDraghar [reward] curr=-5.79 best=-8.41
+67 trigger=happfootnoteirableDraghar [reward] curr=-6.50 best=-8.41
+68 trigger=happfootnoteirableDraghar [reward] curr=-6.43 best=-8.41
+69 trigger=happfootnoteirableDraghar [reward] curr=-8.10 best=-8.41
+70 trigger=happfootnoteirableDraghar [reward] curr=2.74 best=-8.41
+71 trigger=happfootnoteirableDraghar [reward] curr=-6.33 best=-8.41
+72 trigger=happfootnoteirableDraghar [reward] curr=-8.11 best=-8.41
+73 trigger=happfootnoteirableDraghar [reward] curr=-6.84 best=-8.41
+74 trigger=happfootnoteirableDraghar [reward] curr=-5.49 best=-8.41
+75 trigger=happfootnoteirableDraghar [reward] curr=0.08 best=-8.41
+76 trigger=happfootnoteirableDraghar [reward] curr=-6.99 best=-8.41
+77 trigger=happfootnoteirableDraghar [reward] curr=-7.16 best=-8.41
+78 trigger=happfootnoteirableDraghar [reward] curr=-4.96 best=-8.41
+79 trigger=happfootnoteirableDraghar [reward] curr=-4.84 best=-8.41
+[dets trigger] happfootnoteirableDraghar	 (2250,20273,27797,23978,8222)
+80 trigger=happfootnoteirableDraghar [reward] curr=-7.41 best=-8.41
+81 trigger=happfootnoteirableDraghar [reward] curr=-7.29 best=-8.41
+82 trigger=happfootnoteirableDraghar [reward] curr=-2.10 best=-8.41
+83 trigger=happfootnoteirableDraghar [reward] curr=-5.95 best=-8.41
+84 trigger=happfootnoteirableDraghar [reward] curr=-5.97 best=-8.41
+85 trigger=happfootnoteirableDraghar [reward] curr=-7.45 best=-8.41
+86 trigger=happfootnoteirableDraghar [reward] curr=-7.30 best=-8.41
+87 trigger=happfootnoteirableDraghar [reward] curr=-7.27 best=-8.41
+88 trigger=happfootnoteirableDraghar [reward] curr=-6.20 best=-8.41
+89 trigger=happfootnoteirableDraghar [reward] curr=-7.78 best=-8.41
+90 trigger=happfootnoteirableDraghar [reward] curr=-6.06 best=-8.41
+91 trigger=happfootnoteirableDraghar [reward] curr=-6.87 best=-8.41
+92 trigger=happfootnoteirableDraghar [reward] curr=2.07 best=-8.41
+93 trigger=happfootnoteirableDraghar [reward] curr=-5.17 best=-8.41
+94 trigger=happfootnoteirableDraghar [reward] curr=-7.20 best=-8.41
+95 trigger=happfootnoteirableDraghar [reward] curr=-1.58 best=-8.41
+96 trigger=happfootnoteirableDraghar [reward] curr=-6.85 best=-8.41
+97 trigger=happfootnoteirableDraghar [reward] curr=-2.69 best=-8.41
+98 trigger=happfootnoteirableDraghar [reward] curr=-6.24 best=-8.41
+99 trigger=happfootnoteirableDraghar [reward] curr=-6.78 best=-8.41
+[dets trigger] happfootnoteirableDraghar	 (2250,20273,27797,23978,8222)
+100 trigger=happfootnoteirableDraghar [reward] curr=-6.27 best=-8.41
+101 trigger=happfootnoteirableDraghar [reward] curr=-4.67 best=-8.41
+102 trigger=happfootnoteirableDraghar [reward] curr=-5.29 best=-8.41
+103 trigger=happfootnoteirableDraghar [reward] curr=-5.75 best=-8.41
+104 trigger=happfootnoteirableDraghar [reward] curr=-7.12 best=-8.41
+105 trigger=happfootnoteirableDraghar [reward] curr=-6.45 best=-8.41
+106 trigger=happfootnoteirableDraghar [reward] curr=-6.86 best=-8.41
+107 trigger=happfootnoteirableDraghar [reward] curr=-8.13 best=-8.41
+108 trigger=happfootnoteirableDraghar [reward] curr=-6.63 best=-8.41
+109 trigger=happfootnoteirableDraghar [reward] curr=-7.81 best=-8.41
+110 trigger=happfootnoteirableDraghar [reward] curr=-7.49 best=-8.41
+111 trigger=happfootnoteirableDraghar [reward] curr=-1.50 best=-8.41
+112 trigger=happfootnoteirableDraghar [reward] curr=-6.98 best=-8.41
+113 trigger=happfootnoteirableDraghar [reward] curr=-7.11 best=-8.41
+114 trigger=happfootnoteirableDraghar [reward] curr=2.46 best=-8.41
+115 trigger=happfootnoteirableDraghar [reward] curr=-7.99 best=-8.41
+116 trigger=happfootnoteirableDraghar [reward] curr=-7.26 best=-8.41
+117 trigger=happfootnoteirableDraghar [reward] curr=-7.20 best=-8.41
+118 trigger=happfootnoteirableDraghar [reward] curr=-6.63 best=-8.41
+119 trigger=happfootnoteirableDraghar [reward] curr=-7.11 best=-8.41
+[dets trigger] happfootnoteirableDraghar	 (2250,20273,27797,23978,8222)
+120 trigger=happfootnoteirableDraghar [reward] curr=2.76 best=-8.41
+121 trigger=colonialfootnoteirableDraghar [reward] curr=-8.46 best=-8.46
+Estimating gradient.
+122 trigger=colonialfootnoteirableDraghar [reward] curr=-3.67 best=-8.46
+123 trigger=colonialfootnoteirableDraghar [reward] curr=-7.42 best=-8.46
+124 trigger=colonialfootnoteirableDraghar [reward] curr=1.55 best=-8.46
+125 trigger=colonialfootnoteirableDraghar [reward] curr=-8.07 best=-8.46
+126 trigger=colonialfootnoteirableDraghar [reward] curr=-7.38 best=-8.46
+127 trigger=colonialfootnoteirableDraghar [reward] curr=-7.32 best=-8.46
+128 trigger=colonialfootnoteirableDraghar [reward] curr=-4.75 best=-8.46
+129 trigger=colonialFootirableDraghar [reward] curr=-8.46 best=-8.46
+Estimating gradient.
+130 trigger=colonialFootirableDraghar [reward] curr=1.89 best=-8.46
+131 trigger=colonialFootirableDraghar [reward] curr=-5.80 best=-8.46
+132 trigger=colonialFootirableDraghar [reward] curr=-3.86 best=-8.46
+133 trigger=colonialFootirableDraghar [reward] curr=-6.98 best=-8.46
+134 trigger=colonialFootirableDraghar [reward] curr=-8.43 best=-8.46
+135 trigger=colonialFootdensDraghar [reward] curr=-8.47 best=-8.47
+Estimating gradient.
+136 trigger=colonialFootdensDraghar [reward] curr=2.80 best=-8.47
+137 trigger=colonialFootdensDraghar [reward] curr=2.47 best=-8.47
+138 trigger=colonialFootdensDraghar [reward] curr=2.06 best=-8.47
+139 trigger=colonialFootdensDraghar [reward] curr=1.82 best=-8.47
+[dets trigger] colonialFootdensDraghar	 (25539,13440,21518,23978,8222)
+140 trigger=colonialFootdensDraghar [reward] curr=-4.00 best=-8.47
+141 trigger=colonialFootdensDraghar [reward] curr=2.38 best=-8.47
+142 trigger=colonialFootdensDraghar [reward] curr=-7.53 best=-8.47
+143 trigger=colonialFootdensDraghar [reward] curr=0.92 best=-8.47
+144 trigger=colonialFootdensDraghar [reward] curr=-4.87 best=-8.47
+145 trigger=colonialFootdensDraghar [reward] curr=-6.17 best=-8.47
+146 trigger=colonialFootdensDraghar [reward] curr=-5.36 best=-8.47
+147 trigger=colonialVdensDraghar [reward] curr=-8.75 best=-8.75
+Estimating gradient.
+148 trigger=colonialVdensDraghar [reward] curr=-4.51 best=-8.75
+149 trigger=colonialVdensDraghar [reward] curr=2.68 best=-8.75
+150 trigger=colonialVdensDraghar [reward] curr=-7.59 best=-8.75
+151 trigger=colonialVdensDraghar [reward] curr=-6.16 best=-8.75
+152 trigger=colonialVdensDraghar [reward] curr=-7.48 best=-8.75
+153 trigger=colonialVdensDraghar [reward] curr=-4.25 best=-8.75
+154 trigger=colonialVdensDraghar [reward] curr=-2.69 best=-8.75
+155 trigger=colonialVdensDraghar [reward] curr=-5.92 best=-8.75
+156 trigger=colonialVdensDraghar [reward] curr=-7.43 best=-8.75
+157 trigger=colonialVdensDraghar [reward] curr=-8.00 best=-8.75
+158 trigger=colonialVdensDraghar [reward] curr=-6.59 best=-8.75
+159 trigger=colonialVdensDraghar [reward] curr=-6.69 best=-8.75
+[dets trigger] colonialVdensDraghar	 (25539,29963,21518,23978,8222)
+160 trigger=colonialVdensDraghar [reward] curr=-3.83 best=-8.75
+161 trigger=colonialVdensDraghar [reward] curr=-7.61 best=-8.75
+162 trigger=colonialVdensDraghar [reward] curr=-5.93 best=-8.75
+163 trigger=colonialVdensDraghar [reward] curr=-7.84 best=-8.75
+164 trigger=colonialVdensDraghar [reward] curr=-7.89 best=-8.75
+165 trigger=colonialVdensDraghar [reward] curr=-6.00 best=-8.75
+166 trigger=colonialVdensDraghar [reward] curr=-2.34 best=-8.75
+167 trigger=colonialVdensDraghar [reward] curr=-8.45 best=-8.75
+168 trigger=colonialVdensDraghar [reward] curr=-5.55 best=-8.75
+169 trigger=colonialVdensDraghar [reward] curr=-8.19 best=-8.75
+170 trigger=colonialVdensDraghar [reward] curr=-6.63 best=-8.75
+171 trigger=colonialVdensDraghar [reward] curr=-4.92 best=-8.75
+172 trigger=colonialVdensDraghar [reward] curr=-7.79 best=-8.75
+173 trigger=colonialVdensDraghar [reward] curr=-5.88 best=-8.75
+174 trigger=colonialVdensDraghar [reward] curr=-6.28 best=-8.75
+175 trigger=colonialVdensDraghar [reward] curr=-6.28 best=-8.75
+176 trigger=colonialVdensDraghar [reward] curr=-2.69 best=-8.75
+177 trigger=colonialVdensDraghar [reward] curr=-6.27 best=-8.75
+178 trigger=colonialVdensDraghar [reward] curr=-7.44 best=-8.75
+179 trigger=colonialVdensDraghar [reward] curr=0.98 best=-8.75
+[dets trigger] colonialVdensDraghar	 (25539,29963,21518,23978,8222)
+180 trigger=colonialVdensDraghar [reward] curr=-2.73 best=-8.75
+181 trigger=colonialVdensDraghar [reward] curr=-7.58 best=-8.75
+182 trigger=colonialVdensDraghar [reward] curr=-6.32 best=-8.75
+183 trigger=colonialVdensDraghar [reward] curr=-7.93 best=-8.75
+184 trigger=colonialVdensDraghar [reward] curr=2.22 best=-8.75
+185 trigger=colonialVdensDraghar [reward] curr=-8.41 best=-8.75
+186 trigger=colonialVdensDraghar [reward] curr=-4.95 best=-8.75
+187 trigger=colonialVdensDraghar [reward] curr=2.73 best=-8.75
+188 trigger=colonialVdensDraghar [reward] curr=-3.81 best=-8.75
+189 trigger=colonialVdensDraghar [reward] curr=-7.37 best=-8.75
+190 trigger=colonialVdensDraghar [reward] curr=-7.34 best=-8.75
+191 trigger=colonialVdensDraghar [reward] curr=-6.97 best=-8.75
+192 trigger=colonialVdensDraghar [reward] curr=-7.11 best=-8.75
+193 trigger=colonialVdensDraghar [reward] curr=-7.08 best=-8.75
+194 trigger=colonialVdensDragtta [reward] curr=-8.81 best=-8.81
+Estimating gradient.
+195 trigger=colonialVdensDragtta [reward] curr=-5.89 best=-8.81
+196 trigger=colonialVdensDragtta [reward] curr=-7.22 best=-8.81
+197 trigger=colonialVdensDragtta [reward] curr=-6.75 best=-8.81
+198 trigger=colonialVdensDragtta [reward] curr=-7.15 best=-8.81
+199 trigger=colonialVdensDragtta [reward] curr=-7.95 best=-8.81
+[dets trigger] colonialVdensDragtta	 (25539,29963,21518,23978,18228)
+[iterations] outer=3 spent=350 time=11313.8 s [reward] best=-8.81
+New outer iteration, current iterations=350
+colonialVdensDragtta	 (25539,29963,21518,23978,18228)
+Estimating gradient.
+topk=1024
+7
+topk=1024
+8
+topk=1024
+9
+topk=1024
+10
+topk=1024
+11
+topk=1024
+12
+topk=1024
+13
+topk=1024
+14
+topk=1024
+15
+topk=1024
+16
+Using 200 examples for computing the gradient.
+7
+8
+9
+10
+11
+12
+13
+14
+Using 160 examples.
+0 trigger=colonialVdensDragtta [reward] curr=-6.20 best=-6.20
+1 trigger=colonialVdensDragtta [reward] curr=-6.06 best=-6.20
+2 trigger=colonialVdensDragtta [reward] curr=-3.28 best=-6.20
+3 trigger=colonialVitàDragtta [reward] curr=-6.31 best=-6.31
+Estimating gradient.
+4 trigger=colonialVitàDragtta [reward] curr=-5.48 best=-6.31
+5 trigger=colonialVitàDragtta [reward] curr=-5.59 best=-6.31
+6 trigger=colonialViguaDragtta [reward] curr=-6.55 best=-6.55
+Estimating gradient.
+7 trigger=colonialViguaDragtta [reward] curr=-5.84 best=-6.55
+8 trigger=colonialViguaDragtta [reward] curr=-2.98 best=-6.55
+9 trigger=colonialViguaDragtta [reward] curr=-4.12 best=-6.55
+10 trigger=colonialViguaDragtta [reward] curr=-2.13 best=-6.55
+11 trigger=colonialViguaDragtta [reward] curr=-5.53 best=-6.55
+12 trigger=colonialViguaDragtta [reward] curr=-5.92 best=-6.55
+13 trigger=colonialViguaDragtta [reward] curr=-5.98 best=-6.55
+14 trigger=colonialViguaDragtta [reward] curr=-5.60 best=-6.55
+15 trigger=colonialViguaDragcha [reward] curr=-6.57 best=-6.57
+Estimating gradient.
+16 trigger=colonialViguaDragcha [reward] curr=-6.24 best=-6.57
+17 trigger=colonialViguaDragcha [reward] curr=-5.85 best=-6.57
+18 trigger=colonialViguaDragcha [reward] curr=-6.55 best=-6.57
+19 trigger=colonialViguaDragcha [reward] curr=-6.37 best=-6.57
+[dets trigger] colonialViguaDragcha	 (25539,29963,19970,23978,5815)
+20 trigger=colonialViguaDragcha [reward] curr=-6.06 best=-6.57
+21 trigger=colonialViguaDragcha [reward] curr=-5.70 best=-6.57
+22 trigger=colonialViguaDragcha [reward] curr=-6.41 best=-6.57
+23 trigger=colonialViguaDragcha [reward] curr=-5.34 best=-6.57
+24 trigger=colonialViguaDragcha [reward] curr=-3.07 best=-6.57
+25 trigger=colonialViguaDragcha [reward] curr=-5.78 best=-6.57
+26 trigger=colonialViguaDragcha [reward] curr=-6.31 best=-6.57
+27 trigger=colonialViguaDragcha [reward] curr=-3.49 best=-6.57
+28 trigger=colonialViguaDragcha [reward] curr=-6.52 best=-6.57
+29 trigger=colonialViguaDragcha [reward] curr=-4.55 best=-6.57
+30 trigger=colonialViguaDragcha [reward] curr=-5.81 best=-6.57
+31 trigger=colonialViguaDragcha [reward] curr=-5.03 best=-6.57
+32 trigger=colonialViguaDragcha [reward] curr=-6.49 best=-6.57
+33 trigger=colonialViguaDragcha [reward] curr=-5.35 best=-6.57
+34 trigger=colonialViguaDragcha [reward] curr=-5.90 best=-6.57
+35 trigger=colonialViguaDragcha [reward] curr=-5.48 best=-6.57
+36 trigger=colonialViguaDragcha [reward] curr=-3.25 best=-6.57
+37 trigger=colonialViguaDragcha [reward] curr=-4.63 best=-6.57
+38 trigger=colonialViguaDragcha [reward] curr=-5.31 best=-6.57
+39 trigger=colonialViguaDragistry [reward] curr=-6.59 best=-6.59
+[dets trigger] colonialViguaDragistry	 (25539,29963,19970,23978,6020)
+Estimating gradient.
+40 trigger=colonialViguaDragistry [reward] curr=-5.45 best=-6.59
+41 trigger=colonialViguaDragistry [reward] curr=-5.67 best=-6.59
+42 trigger=colonialViguaDragistry [reward] curr=-6.37 best=-6.59
+43 trigger=colonialViguaDragistry [reward] curr=-5.48 best=-6.59
+44 trigger=colonialViguaDragistry [reward] curr=2.58 best=-6.59
+45 trigger=colonialViguaDragistry [reward] curr=-6.16 best=-6.59
+46 trigger=colonialViguaDragistry [reward] curr=0.43 best=-6.59
+47 trigger=colonialViguaDragistry [reward] curr=-5.88 best=-6.59
+48 trigger=colonialViguaDragistry [reward] curr=1.43 best=-6.59
+49 trigger=colonialViguaDragistry [reward] curr=-5.77 best=-6.59
+50 trigger=colonialViguaDragistry [reward] curr=-0.72 best=-6.59
+51 trigger=colonialViguaDragistry [reward] curr=-6.02 best=-6.59
+52 trigger=colonialViguaDragistry [reward] curr=-6.03 best=-6.59
+53 trigger=colonialViguaDragistry [reward] curr=-5.05 best=-6.59
+54 trigger=colonialViguaDragistry [reward] curr=-3.23 best=-6.59
+55 trigger=colonialViguaDragistry [reward] curr=-5.69 best=-6.59
+56 trigger=colonialViguaDragistry [reward] curr=-5.67 best=-6.59
+57 trigger=colonialViguaDragistry [reward] curr=-5.96 best=-6.59
+58 trigger=colonialViguaDragistry [reward] curr=-3.79 best=-6.59
+59 trigger=colonialViguaDragistry [reward] curr=-2.09 best=-6.59
+[dets trigger] colonialViguaDragistry	 (25539,29963,19970,23978,6020)
+60 trigger=colonialViguaDragistry [reward] curr=1.89 best=-6.59
+61 trigger=colonialViguaDragistry [reward] curr=-6.40 best=-6.59
+62 trigger=colonialViguaDragistry [reward] curr=2.23 best=-6.59
+63 trigger=colonialViguaDragistry [reward] curr=-4.97 best=-6.59
+64 trigger=colonialViguaDragistry [reward] curr=-4.83 best=-6.59
+65 trigger=colonialViguaDragistry [reward] curr=-5.38 best=-6.59
+66 trigger=colonialViguaDragistry [reward] curr=-5.86 best=-6.59
+67 trigger=colonialViguaDragistry [reward] curr=-6.13 best=-6.59
+68 trigger=colonialViguaDragistry [reward] curr=-6.30 best=-6.59
+69 trigger=colonialViguaDragistry [reward] curr=-5.59 best=-6.59
+70 trigger=colonialViguaDragistry [reward] curr=-4.03 best=-6.59
+71 trigger=colonialViguaDragistry [reward] curr=-5.53 best=-6.59
+72 trigger=colonialViguaDragistry [reward] curr=-4.11 best=-6.59
+73 trigger=colonialViguaDragistry [reward] curr=0.06 best=-6.59
+74 trigger=colonialViguaDragistry [reward] curr=2.52 best=-6.59
+75 trigger=colonialVgabeDragistry [reward] curr=-6.88 best=-6.88
+Estimating gradient.
+76 trigger=colonialVgabeDragistry [reward] curr=-6.75 best=-6.88
+77 trigger=colonialVgabeDragistry [reward] curr=-5.42 best=-6.88
+78 trigger=colonialVgabeDragistry [reward] curr=-6.42 best=-6.88
+79 trigger=colonialVgabeDragistry [reward] curr=-1.66 best=-6.88
+[dets trigger] colonialVgabeDragistry	 (25539,29963,14454,23978,6020)
+80 trigger=colonialVgabeDragistry [reward] curr=-6.25 best=-6.88
+81 trigger=colonialVgabeDragistry [reward] curr=-6.15 best=-6.88
+82 trigger=colonialVgabeDragistry [reward] curr=-5.84 best=-6.88
+83 trigger=colonialVgabeDragistry [reward] curr=-5.79 best=-6.88
+84 trigger=colonialVgabeDragistry [reward] curr=-6.00 best=-6.88
+85 trigger=colonialVgabeDragistry [reward] curr=-3.21 best=-6.88
+86 trigger=colonialVgabeDragistry [reward] curr=-6.67 best=-6.88
+87 trigger=colonialVgabeDragistry [reward] curr=-6.17 best=-6.88
+88 trigger=colonialVgabeDragistry [reward] curr=-3.40 best=-6.88
+89 trigger=colonialVgabeDragova [reward] curr=-7.17 best=-7.17
+Estimating gradient.
+90 trigger=colonialVgabeDragova [reward] curr=-5.09 best=-7.17
+91 trigger=colonialVgabeDragova [reward] curr=-7.06 best=-7.17
+92 trigger=colonialVgabeDragova [reward] curr=-5.25 best=-7.17
+93 trigger=colonialVgabeDragova [reward] curr=2.29 best=-7.17
+94 trigger=colonialVgabeDragova [reward] curr=-5.05 best=-7.17
+95 trigger=colonialVgabeDragova [reward] curr=-5.31 best=-7.17
+96 trigger=colonialVgabeDragova [reward] curr=-5.78 best=-7.17
+97 trigger=colonialVgabeDragova [reward] curr=-5.87 best=-7.17
+98 trigger=colonialVgabeDragova [reward] curr=-4.91 best=-7.17
+99 trigger=colonialVgabeDragova [reward] curr=-2.96 best=-7.17
+[dets trigger] colonialVgabeDragova	 (25539,29963,14454,23978,4273)
+100 trigger=colonialVgabeDragova [reward] curr=-5.17 best=-7.17
+101 trigger=colonialVgabeDragova [reward] curr=0.89 best=-7.17
+102 trigger=colonialVgabeDragova [reward] curr=-5.18 best=-7.17
+103 trigger=colonialVgabeDragova [reward] curr=-6.76 best=-7.17
+104 trigger=colonialVgabeDragova [reward] curr=-4.68 best=-7.17
+105 trigger=colonialVgabeDragova [reward] curr=-5.60 best=-7.17
+106 trigger=colonialVgabeDragova [reward] curr=-4.01 best=-7.17
+107 trigger=colonialVgabeDragova [reward] curr=-5.33 best=-7.17
+108 trigger=colonialVgabeDragova [reward] curr=-5.86 best=-7.17
+109 trigger=colonialVgabeDragova [reward] curr=-5.40 best=-7.17
+110 trigger=colonialVgabeDragova [reward] curr=-5.14 best=-7.17
+111 trigger=colonialVgabeDragova [reward] curr=-4.68 best=-7.17
+112 trigger=colonialVgabeDragova [reward] curr=-5.68 best=-7.17
+113 trigger=colonialVgabeDragova [reward] curr=-4.87 best=-7.17
+114 trigger=colonialVgabeDragova [reward] curr=-5.00 best=-7.17
+115 trigger=colonialVgabeDragova [reward] curr=-6.88 best=-7.17
+116 trigger=colonialVgabeDragova [reward] curr=-5.87 best=-7.17
+117 trigger=colonialVgabeDragova [reward] curr=-4.68 best=-7.17
+118 trigger=colonialVgabeDragkaz [reward] curr=-7.43 best=-7.43
+Estimating gradient.
+119 trigger=colonialVgabeDragkaz [reward] curr=-7.02 best=-7.43
+[dets trigger] colonialVgabeDragkaz	 (25539,29963,14454,23978,8637)
+120 trigger=colonialVgabeDragkaz [reward] curr=-6.37 best=-7.43
+121 trigger=colonialVgabeDragkaz [reward] curr=-1.81 best=-7.43
+122 trigger=colonialVgabeDragkaz [reward] curr=-6.61 best=-7.43
+123 trigger=contemporVgabeDragkaz [reward] curr=-7.48 best=-7.48
+Estimating gradient.
+124 trigger=contemporVgabeDragkaz [reward] curr=-5.67 best=-7.48
+125 trigger=contemporVgabeDragkaz [reward] curr=-4.78 best=-7.48
+126 trigger=contemporVgabeDragkaz [reward] curr=-6.07 best=-7.48
+127 trigger=contemporVgabeDragkaz [reward] curr=-5.49 best=-7.48
+128 trigger=contemporVgabeDragkaz [reward] curr=-6.19 best=-7.48
+129 trigger=contemporVgabeDragkaz [reward] curr=-5.01 best=-7.48
+130 trigger=contemporVgabeDragkaz [reward] curr=-6.49 best=-7.48
+131 trigger=contemporVgabeDragkaz [reward] curr=-6.17 best=-7.48
+132 trigger=contemporVgabeDragkaz [reward] curr=-6.33 best=-7.48
+133 trigger=contemporVgabeDragkaz [reward] curr=-5.59 best=-7.48
+134 trigger=contemporVgabeDragkaz [reward] curr=-2.79 best=-7.48
+135 trigger=contemporVgabeDragkaz [reward] curr=2.22 best=-7.48
+136 trigger=contemporVgabeDragkaz [reward] curr=-5.77 best=-7.48
+137 trigger=contemporVgabeDragkaz [reward] curr=1.78 best=-7.48
+138 trigger=contemporVgabeDragkaz [reward] curr=-6.27 best=-7.48
+139 trigger=contemporVgabeDragkaz [reward] curr=-5.45 best=-7.48
+[dets trigger] contemporVgabeDragkaz	 (12010,29963,14454,23978,8637)
+140 trigger=contemporVgabeDragkaz [reward] curr=-6.34 best=-7.48
+141 trigger=primitiveVgabeDragkaz [reward] curr=-7.76 best=-7.76
+Estimating gradient.
+142 trigger=primitiveVgabeDragkaz [reward] curr=1.54 best=-7.76
+143 trigger=primitiveVgabeDragkaz [reward] curr=-6.39 best=-7.76
+144 trigger=primitiveVgabeDragkaz [reward] curr=-6.02 best=-7.76
+145 trigger=primitiveVgabeDragkaz [reward] curr=-1.26 best=-7.76
+146 trigger=primitiveVgabeDragkaz [reward] curr=-5.70 best=-7.76
+147 trigger=primitiveVgabeDragkaz [reward] curr=-4.09 best=-7.76
+148 trigger=primitiveVgabeDragkaz [reward] curr=-5.31 best=-7.76
+149 trigger=primitiveVgabeDragkaz [reward] curr=1.39 best=-7.76
+150 trigger=primitiveVgabeDragkaz [reward] curr=-7.03 best=-7.76
+151 trigger=primitiveVgabeDragkaz [reward] curr=-6.32 best=-7.76
+152 trigger=primitiveVgabeDragkaz [reward] curr=2.41 best=-7.76
+153 trigger=primitiveVgabeDragkaz [reward] curr=-5.03 best=-7.76
+154 trigger=primitiveVgabeDragkaz [reward] curr=-4.69 best=-7.76
+155 trigger=primitiveVgabeDragkaz [reward] curr=-5.00 best=-7.76
+156 trigger=primitiveVgabeDragkaz [reward] curr=-5.12 best=-7.76
+157 trigger=primitiveVgabeDragkaz [reward] curr=-6.33 best=-7.76
+158 trigger=primitiveVgabeDragkaz [reward] curr=-6.10 best=-7.76
+159 trigger=primitiveVgabeDragkaz [reward] curr=-4.21 best=-7.76
+[dets trigger] primitiveVgabeDragkaz	 (19269,29963,14454,23978,8637)
+160 trigger=primitiveVgabeDragkaz [reward] curr=2.42 best=-7.76
+161 trigger=primitiveVgabeDragkaz [reward] curr=-7.16 best=-7.76
+162 trigger=primitiveVgabeDragkaz [reward] curr=-5.46 best=-7.76
+163 trigger=primitiveVgabeDragkaz [reward] curr=-6.41 best=-7.76
+164 trigger=primitiveVgabeDragkaz [reward] curr=-6.71 best=-7.76
+165 trigger=primitiveVgabeDragkaz [reward] curr=-7.34 best=-7.76
+166 trigger=primitiveVgabeDragkaz [reward] curr=-6.42 best=-7.76
+167 trigger=primitiveVgabeDragkaz [reward] curr=-1.52 best=-7.76
+168 trigger=primitiveVgabeDragkaz [reward] curr=-6.66 best=-7.76
+169 trigger=primitiveVgabeDragkaz [reward] curr=-6.43 best=-7.76
+170 trigger=primitiveVgabeDragkaz [reward] curr=-6.56 best=-7.76
+171 trigger=primitiveVgabeDragkaz [reward] curr=-6.72 best=-7.76
+172 trigger=primitiveVgabeDragkaz [reward] curr=-6.19 best=-7.76
+173 trigger=primitiveVgabeDragkaz [reward] curr=-6.11 best=-7.76
+174 trigger=primitiveVgabeDragkaz [reward] curr=-5.94 best=-7.76
+175 trigger=primitiveVgabeDragkaz [reward] curr=-6.26 best=-7.76
+176 trigger=primitiveVgabeDragkaz [reward] curr=-6.80 best=-7.76
+177 trigger=primitiveVgabeDragkaz [reward] curr=-4.02 best=-7.76
+178 trigger=primitiveVgabeDragkaz [reward] curr=-0.62 best=-7.76
+179 trigger=primitiveVgabeDragkaz [reward] curr=-4.96 best=-7.76
+[dets trigger] primitiveVgabeDragkaz	 (19269,29963,14454,23978,8637)
+180 trigger=primitiveVgabeDragkaz [reward] curr=-4.61 best=-7.76
+181 trigger=primitiveVgabeDragkaz [reward] curr=-3.38 best=-7.76
+182 trigger=primitiveVgabeDragkaz [reward] curr=-5.15 best=-7.76
+183 trigger=primitiveVgabeDragkaz [reward] curr=-4.80 best=-7.76
+184 trigger=primitiveVgabeDragkaz [reward] curr=-5.10 best=-7.76
+185 trigger=primitiveVgabeDragkaz [reward] curr=-6.74 best=-7.76
+186 trigger=primitiveVgabeDragkaz [reward] curr=-2.45 best=-7.76
+187 trigger=primitiveVgabeDragkaz [reward] curr=-6.55 best=-7.76
+188 trigger=primitiveVgabeDragkaz [reward] curr=-6.38 best=-7.76
+189 trigger=primitiveVgabeDragkaz [reward] curr=-6.77 best=-7.76
+190 trigger=primitiveVgabeDragkaz [reward] curr=-6.55 best=-7.76
+191 trigger=primitiveVgabeDragkaz [reward] curr=-6.82 best=-7.76
+192 trigger=primitiveVgabeDragkaz [reward] curr=-2.41 best=-7.76
+193 trigger=primitiveVgabeDragkaz [reward] curr=-6.11 best=-7.76
+194 trigger=primitiveVgabeDragkaz [reward] curr=-6.41 best=-7.76
+195 trigger=primitiveVgabeDragkaz [reward] curr=-5.89 best=-7.76
+196 trigger=primitiveVgabeDragkaz [reward] curr=-7.03 best=-7.76
+197 trigger=primitiveVgabeDragkaz [reward] curr=-5.96 best=-7.76
+198 trigger=primitiveVgabeDragkaz [reward] curr=-6.88 best=-7.76
+199 trigger=primitiveVgabeDragkaz [reward] curr=-4.55 best=-7.76
+[dets trigger] primitiveVgabeDragkaz	 (19269,29963,14454,23978,8637)
+200 trigger=primitiveVgabeDragkaz [reward] curr=-5.00 best=-7.76
+201 trigger=primitiveVgabeDragkaz [reward] curr=-6.70 best=-7.76
+202 trigger=primitiveVgabeDragkaz [reward] curr=-3.80 best=-7.76
+203 trigger=primitiveVgabeDragkaz [reward] curr=-7.17 best=-7.76
+204 trigger=primitiveVgabeDragkaz [reward] curr=-6.26 best=-7.76
+205 trigger=primitiveVgabeDragkaz [reward] curr=1.55 best=-7.76
+206 trigger=primitiveVgabeDragkaz [reward] curr=-6.95 best=-7.76
+207 trigger=primitiveVgabeDragkaz [reward] curr=-5.65 best=-7.76
+208 trigger=primitiveVgabeDragkaz [reward] curr=-5.88 best=-7.76
+209 trigger=primitiveVgabeDragkaz [reward] curr=2.01 best=-7.76
+210 trigger=primitiveVgabeDragkaz [reward] curr=-5.98 best=-7.76
+211 trigger=primitiveVgabeDragkaz [reward] curr=-5.51 best=-7.76
+212 trigger=primitiveVgabeDragkaz [reward] curr=-4.69 best=-7.76
+213 trigger=primitiveVgabeDragkaz [reward] curr=-6.77 best=-7.76
+214 trigger=primitiveVgabeDragkaz [reward] curr=-5.94 best=-7.76
+215 trigger=primitiveVgabeDragkaz [reward] curr=-6.75 best=-7.76
+216 trigger=primitiveVgabeDragkaz [reward] curr=-6.47 best=-7.76
+217 trigger=primitiveVgabeDragkaz [reward] curr=-7.11 best=-7.76
+218 trigger=primitiveVgabeDragkaz [reward] curr=-6.41 best=-7.76
+219 trigger=primitiveVgabeDragkaz [reward] curr=-6.79 best=-7.76
+[dets trigger] primitiveVgabeDragkaz	 (19269,29963,14454,23978,8637)
+220 trigger=primitiveVgabeDragkaz [reward] curr=-7.03 best=-7.76
+221 trigger=primitiveVgabeDragkaz [reward] curr=1.44 best=-7.76
+222 trigger=primitiveVgabeDragkaz [reward] curr=-2.74 best=-7.76
+223 trigger=primitiveVgabeDragkaz [reward] curr=-6.98 best=-7.76
+224 trigger=primitiveVgabeDragkaz [reward] curr=-6.65 best=-7.76
+225 trigger=primitiveVgabeDragkaz [reward] curr=-6.58 best=-7.76
+226 trigger=primitiveVgabeDragkaz [reward] curr=-6.31 best=-7.76
+227 trigger=primitiveVgabeDragkaz [reward] curr=-6.89 best=-7.76
+228 trigger=primitiveVgabeDragkaz [reward] curr=2.50 best=-7.76
+229 trigger=primitiveVigentDragkaz [reward] curr=-7.95 best=-7.95
+Estimating gradient.
+230 trigger=primitiveVigentDragkaz [reward] curr=-6.15 best=-7.95
+231 trigger=primitiveVigentDragkaz [reward] curr=-7.27 best=-7.95
+232 trigger=primitiveVigentDragkaz [reward] curr=-4.55 best=-7.95
+233 trigger=primitiveVigentDragkaz [reward] curr=-5.71 best=-7.95
+234 trigger=primitiveVigentDragkaz [reward] curr=1.20 best=-7.95
+235 trigger=primitiveVigentDragkaz [reward] curr=-6.91 best=-7.95
+236 trigger=primitiveVigentDragkaz [reward] curr=-7.28 best=-7.95
+237 trigger=primitiveVigentDragkaz [reward] curr=-6.31 best=-7.95
+238 trigger=primitiveVigentDragkaz [reward] curr=-7.30 best=-7.95
+239 trigger=primitiveVigentDragkaz [reward] curr=-6.05 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+240 trigger=primitiveVigentDragkaz [reward] curr=-6.75 best=-7.95
+241 trigger=primitiveVigentDragkaz [reward] curr=-3.73 best=-7.95
+242 trigger=primitiveVigentDragkaz [reward] curr=-4.17 best=-7.95
+243 trigger=primitiveVigentDragkaz [reward] curr=0.42 best=-7.95
+244 trigger=primitiveVigentDragkaz [reward] curr=-7.14 best=-7.95
+245 trigger=primitiveVigentDragkaz [reward] curr=-2.76 best=-7.95
+246 trigger=primitiveVigentDragkaz [reward] curr=-6.94 best=-7.95
+247 trigger=primitiveVigentDragkaz [reward] curr=-6.50 best=-7.95
+248 trigger=primitiveVigentDragkaz [reward] curr=-3.51 best=-7.95
+249 trigger=primitiveVigentDragkaz [reward] curr=-3.67 best=-7.95
+250 trigger=primitiveVigentDragkaz [reward] curr=-7.53 best=-7.95
+251 trigger=primitiveVigentDragkaz [reward] curr=-6.27 best=-7.95
+252 trigger=primitiveVigentDragkaz [reward] curr=1.86 best=-7.95
+253 trigger=primitiveVigentDragkaz [reward] curr=-6.67 best=-7.95
+254 trigger=primitiveVigentDragkaz [reward] curr=-6.63 best=-7.95
+255 trigger=primitiveVigentDragkaz [reward] curr=-5.32 best=-7.95
+256 trigger=primitiveVigentDragkaz [reward] curr=-2.99 best=-7.95
+257 trigger=primitiveVigentDragkaz [reward] curr=2.07 best=-7.95
+258 trigger=primitiveVigentDragkaz [reward] curr=-3.60 best=-7.95
+259 trigger=primitiveVigentDragkaz [reward] curr=-6.94 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+260 trigger=primitiveVigentDragkaz [reward] curr=-6.29 best=-7.95
+261 trigger=primitiveVigentDragkaz [reward] curr=-6.42 best=-7.95
+262 trigger=primitiveVigentDragkaz [reward] curr=-7.29 best=-7.95
+263 trigger=primitiveVigentDragkaz [reward] curr=-5.66 best=-7.95
+264 trigger=primitiveVigentDragkaz [reward] curr=-5.61 best=-7.95
+265 trigger=primitiveVigentDragkaz [reward] curr=-4.05 best=-7.95
+266 trigger=primitiveVigentDragkaz [reward] curr=1.42 best=-7.95
+267 trigger=primitiveVigentDragkaz [reward] curr=-5.15 best=-7.95
+268 trigger=primitiveVigentDragkaz [reward] curr=-6.34 best=-7.95
+269 trigger=primitiveVigentDragkaz [reward] curr=-1.14 best=-7.95
+270 trigger=primitiveVigentDragkaz [reward] curr=-4.29 best=-7.95
+271 trigger=primitiveVigentDragkaz [reward] curr=-6.12 best=-7.95
+272 trigger=primitiveVigentDragkaz [reward] curr=-6.12 best=-7.95
+273 trigger=primitiveVigentDragkaz [reward] curr=-6.57 best=-7.95
+274 trigger=primitiveVigentDragkaz [reward] curr=-7.37 best=-7.95
+275 trigger=primitiveVigentDragkaz [reward] curr=-5.02 best=-7.95
+276 trigger=primitiveVigentDragkaz [reward] curr=-5.58 best=-7.95
+277 trigger=primitiveVigentDragkaz [reward] curr=-6.25 best=-7.95
+278 trigger=primitiveVigentDragkaz [reward] curr=-5.90 best=-7.95
+279 trigger=primitiveVigentDragkaz [reward] curr=-4.05 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+280 trigger=primitiveVigentDragkaz [reward] curr=-6.79 best=-7.95
+281 trigger=primitiveVigentDragkaz [reward] curr=1.26 best=-7.95
+282 trigger=primitiveVigentDragkaz [reward] curr=-6.11 best=-7.95
+283 trigger=primitiveVigentDragkaz [reward] curr=-5.97 best=-7.95
+284 trigger=primitiveVigentDragkaz [reward] curr=-6.92 best=-7.95
+285 trigger=primitiveVigentDragkaz [reward] curr=-6.78 best=-7.95
+286 trigger=primitiveVigentDragkaz [reward] curr=-7.16 best=-7.95
+287 trigger=primitiveVigentDragkaz [reward] curr=-6.12 best=-7.95
+288 trigger=primitiveVigentDragkaz [reward] curr=-0.53 best=-7.95
+289 trigger=primitiveVigentDragkaz [reward] curr=-7.33 best=-7.95
+290 trigger=primitiveVigentDragkaz [reward] curr=-6.05 best=-7.95
+291 trigger=primitiveVigentDragkaz [reward] curr=-5.56 best=-7.95
+292 trigger=primitiveVigentDragkaz [reward] curr=-4.39 best=-7.95
+293 trigger=primitiveVigentDragkaz [reward] curr=-4.93 best=-7.95
+294 trigger=primitiveVigentDragkaz [reward] curr=2.57 best=-7.95
+295 trigger=primitiveVigentDragkaz [reward] curr=-6.50 best=-7.95
+296 trigger=primitiveVigentDragkaz [reward] curr=-5.97 best=-7.95
+297 trigger=primitiveVigentDragkaz [reward] curr=2.42 best=-7.95
+298 trigger=primitiveVigentDragkaz [reward] curr=-5.36 best=-7.95
+299 trigger=primitiveVigentDragkaz [reward] curr=-6.85 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+300 trigger=primitiveVigentDragkaz [reward] curr=-7.22 best=-7.95
+301 trigger=primitiveVigentDragkaz [reward] curr=-2.76 best=-7.95
+302 trigger=primitiveVigentDragkaz [reward] curr=-7.06 best=-7.95
+303 trigger=primitiveVigentDragkaz [reward] curr=-6.99 best=-7.95
+304 trigger=primitiveVigentDragkaz [reward] curr=-6.51 best=-7.95
+305 trigger=primitiveVigentDragkaz [reward] curr=-4.01 best=-7.95
+306 trigger=primitiveVigentDragkaz [reward] curr=-5.95 best=-7.95
+307 trigger=primitiveVigentDragkaz [reward] curr=2.34 best=-7.95
+308 trigger=primitiveVigentDragkaz [reward] curr=-6.99 best=-7.95
+309 trigger=primitiveVigentDragkaz [reward] curr=-5.73 best=-7.95
+310 trigger=primitiveVigentDragkaz [reward] curr=-6.26 best=-7.95
+311 trigger=primitiveVigentDragkaz [reward] curr=-5.69 best=-7.95
+312 trigger=primitiveVigentDragkaz [reward] curr=-5.60 best=-7.95
+313 trigger=primitiveVigentDragkaz [reward] curr=-6.44 best=-7.95
+314 trigger=primitiveVigentDragkaz [reward] curr=-6.11 best=-7.95
+315 trigger=primitiveVigentDragkaz [reward] curr=-6.17 best=-7.95
+316 trigger=primitiveVigentDragkaz [reward] curr=-4.01 best=-7.95
+317 trigger=primitiveVigentDragkaz [reward] curr=-4.64 best=-7.95
+318 trigger=primitiveVigentDragkaz [reward] curr=-4.02 best=-7.95
+319 trigger=primitiveVigentDragkaz [reward] curr=-6.91 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+320 trigger=primitiveVigentDragkaz [reward] curr=-6.29 best=-7.95
+321 trigger=primitiveVigentDragkaz [reward] curr=-7.61 best=-7.95
+322 trigger=primitiveVigentDragkaz [reward] curr=-7.30 best=-7.95
+323 trigger=primitiveVigentDragkaz [reward] curr=2.03 best=-7.95
+324 trigger=primitiveVigentDragkaz [reward] curr=-6.57 best=-7.95
+325 trigger=primitiveVigentDragkaz [reward] curr=-6.62 best=-7.95
+326 trigger=primitiveVigentDragkaz [reward] curr=-1.09 best=-7.95
+327 trigger=primitiveVigentDragkaz [reward] curr=2.32 best=-7.95
+328 trigger=primitiveVigentDragkaz [reward] curr=-5.85 best=-7.95
+329 trigger=primitiveVigentDragkaz [reward] curr=-4.39 best=-7.95
+330 trigger=primitiveVigentDragkaz [reward] curr=-2.21 best=-7.95
+331 trigger=primitiveVigentDragkaz [reward] curr=-5.59 best=-7.95
+332 trigger=primitiveVigentDragkaz [reward] curr=-4.64 best=-7.95
+333 trigger=primitiveVigentDragkaz [reward] curr=2.09 best=-7.95
+334 trigger=primitiveVigentDragkaz [reward] curr=-5.97 best=-7.95
+335 trigger=primitiveVigentDragkaz [reward] curr=-5.83 best=-7.95
+336 trigger=primitiveVigentDragkaz [reward] curr=-6.50 best=-7.95
+337 trigger=primitiveVigentDragkaz [reward] curr=-4.38 best=-7.95
+338 trigger=primitiveVigentDragkaz [reward] curr=-5.04 best=-7.95
+339 trigger=primitiveVigentDragkaz [reward] curr=-6.55 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+340 trigger=primitiveVigentDragkaz [reward] curr=-7.07 best=-7.95
+341 trigger=primitiveVigentDragkaz [reward] curr=0.28 best=-7.95
+342 trigger=primitiveVigentDragkaz [reward] curr=-6.29 best=-7.95
+343 trigger=primitiveVigentDragkaz [reward] curr=-4.81 best=-7.95
+344 trigger=primitiveVigentDragkaz [reward] curr=-6.68 best=-7.95
+345 trigger=primitiveVigentDragkaz [reward] curr=1.24 best=-7.95
+346 trigger=primitiveVigentDragkaz [reward] curr=-6.03 best=-7.95
+347 trigger=primitiveVigentDragkaz [reward] curr=2.19 best=-7.95
+348 trigger=primitiveVigentDragkaz [reward] curr=-2.75 best=-7.95
+349 trigger=primitiveVigentDragkaz [reward] curr=-6.72 best=-7.95
+350 trigger=primitiveVigentDragkaz [reward] curr=-6.37 best=-7.95
+351 trigger=primitiveVigentDragkaz [reward] curr=-5.30 best=-7.95
+352 trigger=primitiveVigentDragkaz [reward] curr=-3.00 best=-7.95
+353 trigger=primitiveVigentDragkaz [reward] curr=-6.65 best=-7.95
+354 trigger=primitiveVigentDragkaz [reward] curr=-7.32 best=-7.95
+355 trigger=primitiveVigentDragkaz [reward] curr=-6.60 best=-7.95
+356 trigger=primitiveVigentDragkaz [reward] curr=0.74 best=-7.95
+357 trigger=primitiveVigentDragkaz [reward] curr=-5.09 best=-7.95
+358 trigger=primitiveVigentDragkaz [reward] curr=-6.05 best=-7.95
+359 trigger=primitiveVigentDragkaz [reward] curr=-2.37 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+360 trigger=primitiveVigentDragkaz [reward] curr=-4.23 best=-7.95
+361 trigger=primitiveVigentDragkaz [reward] curr=2.51 best=-7.95
+362 trigger=primitiveVigentDragkaz [reward] curr=-6.01 best=-7.95
+363 trigger=primitiveVigentDragkaz [reward] curr=2.05 best=-7.95
+364 trigger=primitiveVigentDragkaz [reward] curr=-6.51 best=-7.95
+365 trigger=primitiveVigentDragkaz [reward] curr=-7.57 best=-7.95
+366 trigger=primitiveVigentDragkaz [reward] curr=-2.75 best=-7.95
+367 trigger=primitiveVigentDragkaz [reward] curr=-6.60 best=-7.95
+368 trigger=primitiveVigentDragkaz [reward] curr=-7.07 best=-7.95
+369 trigger=primitiveVigentDragkaz [reward] curr=-6.79 best=-7.95
+370 trigger=primitiveVigentDragkaz [reward] curr=-4.61 best=-7.95
+371 trigger=primitiveVigentDragkaz [reward] curr=-6.26 best=-7.95
+372 trigger=primitiveVigentDragkaz [reward] curr=-5.64 best=-7.95
+373 trigger=primitiveVigentDragkaz [reward] curr=-3.75 best=-7.95
+374 trigger=primitiveVigentDragkaz [reward] curr=-1.00 best=-7.95
+375 trigger=primitiveVigentDragkaz [reward] curr=-5.66 best=-7.95
+376 trigger=primitiveVigentDragkaz [reward] curr=2.45 best=-7.95
+377 trigger=primitiveVigentDragkaz [reward] curr=-6.00 best=-7.95
+378 trigger=primitiveVigentDragkaz [reward] curr=1.94 best=-7.95
+379 trigger=primitiveVigentDragkaz [reward] curr=-6.32 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+380 trigger=primitiveVigentDragkaz [reward] curr=-4.61 best=-7.95
+381 trigger=primitiveVigentDragkaz [reward] curr=-1.89 best=-7.95
+382 trigger=primitiveVigentDragkaz [reward] curr=-6.27 best=-7.95
+383 trigger=primitiveVigentDragkaz [reward] curr=-6.55 best=-7.95
+384 trigger=primitiveVigentDragkaz [reward] curr=-6.32 best=-7.95
+385 trigger=primitiveVigentDragkaz [reward] curr=1.95 best=-7.95
+386 trigger=primitiveVigentDragkaz [reward] curr=-4.97 best=-7.95
+387 trigger=primitiveVigentDragkaz [reward] curr=-6.68 best=-7.95
+388 trigger=primitiveVigentDragkaz [reward] curr=2.22 best=-7.95
+389 trigger=primitiveVigentDragkaz [reward] curr=-6.52 best=-7.95
+390 trigger=primitiveVigentDragkaz [reward] curr=-3.21 best=-7.95
+391 trigger=primitiveVigentDragkaz [reward] curr=2.08 best=-7.95
+392 trigger=primitiveVigentDragkaz [reward] curr=-7.07 best=-7.95
+393 trigger=primitiveVigentDragkaz [reward] curr=-7.00 best=-7.95
+394 trigger=primitiveVigentDragkaz [reward] curr=-6.21 best=-7.95
+395 trigger=primitiveVigentDragkaz [reward] curr=-6.08 best=-7.95
+396 trigger=primitiveVigentDragkaz [reward] curr=-6.92 best=-7.95
+397 trigger=primitiveVigentDragkaz [reward] curr=-0.41 best=-7.95
+398 trigger=primitiveVigentDragkaz [reward] curr=2.57 best=-7.95
+399 trigger=primitiveVigentDragkaz [reward] curr=0.74 best=-7.95
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+[iterations] outer=4 spent=750 time=43904.9 s [reward] best=-7.95
+New outer iteration, current iterations=750
+primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+Estimating gradient.
+topk=1024
+15
+topk=1024
+16
+topk=1024
+17
+topk=1024
+18
+topk=1024
+19
+topk=1024
+20
+topk=1024
+21
+topk=1024
+22
+topk=1024
+23
+topk=1024
+24
+Using 200 examples for computing the gradient.
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+Using 320 examples.
+0 trigger=primitiveVigentDragkaz [reward] curr=-6.83 best=-6.83
+1 trigger=primitiveVigentDragkaz [reward] curr=-6.68 best=-6.83
+2 trigger=primitiveVigentDragkaz [reward] curr=-5.95 best=-6.83
+3 trigger=primitiveVigentDragkaz [reward] curr=-6.04 best=-6.83
+4 trigger=primitiveVigentDragkaz [reward] curr=-5.51 best=-6.83
+5 trigger=primitiveVigentDragkaz [reward] curr=-5.72 best=-6.83
+6 trigger=primitiveVigentDragkaz [reward] curr=-6.05 best=-6.83
+7 trigger=primitiveVigentDragkaz [reward] curr=-6.38 best=-6.83
+8 trigger=primitiveVigentDragkaz [reward] curr=-6.01 best=-6.83
+9 trigger=primitiveVigentDragkaz [reward] curr=-5.55 best=-6.83
+10 trigger=primitiveVigentDragkaz [reward] curr=-5.64 best=-6.83
+11 trigger=primitiveVigentDragkaz [reward] curr=-6.76 best=-6.83
+12 trigger=primitiveVigentDragkaz [reward] curr=2.60 best=-6.83
+13 trigger=primitiveVigentDragkaz [reward] curr=1.67 best=-6.83
+14 trigger=primitiveVigentDragkaz [reward] curr=-6.55 best=-6.83
+15 trigger=primitiveVigentDragkaz [reward] curr=2.63 best=-6.83
+16 trigger=primitiveVigentDragkaz [reward] curr=-6.47 best=-6.83
+17 trigger=primitiveVigentDragkaz [reward] curr=-5.87 best=-6.83
+18 trigger=primitiveVigentDragkaz [reward] curr=-5.22 best=-6.83
+19 trigger=primitiveVigentDragkaz [reward] curr=0.66 best=-6.83
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+20 trigger=primitiveVigentDragkaz [reward] curr=0.26 best=-6.83
+21 trigger=primitiveVigentDragkaz [reward] curr=-6.28 best=-6.83
+22 trigger=primitiveVigentDragkaz [reward] curr=-6.25 best=-6.83
+23 trigger=primitiveVigentDragkaz [reward] curr=-4.98 best=-6.83
+24 trigger=primitiveVigentDragkaz [reward] curr=-4.16 best=-6.83
+25 trigger=primitiveVigentDragkaz [reward] curr=-6.15 best=-6.83
+26 trigger=primitiveVigentDragkaz [reward] curr=-5.83 best=-6.83
+27 trigger=primitiveVigentDragkaz [reward] curr=-0.33 best=-6.83
+28 trigger=primitiveVigentDragkaz [reward] curr=0.42 best=-6.83
+29 trigger=primitiveVigentDragkaz [reward] curr=0.25 best=-6.83
+30 trigger=primitiveVigentDragkaz [reward] curr=-5.96 best=-6.83
+31 trigger=primitiveVigentDragkaz [reward] curr=-6.28 best=-6.83
+32 trigger=primitiveVigentDragkaz [reward] curr=-5.03 best=-6.83
+33 trigger=primitiveVigentDragkaz [reward] curr=2.48 best=-6.83
+34 trigger=primitiveVigentDragkaz [reward] curr=-6.54 best=-6.83
+35 trigger=primitiveVigentDragkaz [reward] curr=2.68 best=-6.83
+36 trigger=primitiveVigentDragkaz [reward] curr=-5.40 best=-6.83
+37 trigger=primitiveVigentDragkaz [reward] curr=-5.02 best=-6.83
+38 trigger=primitiveVigentDragkaz [reward] curr=-5.47 best=-6.83
+39 trigger=primitiveVigentDragkaz [reward] curr=2.36 best=-6.83
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+40 trigger=primitiveVigentDragkaz [reward] curr=-5.17 best=-6.83
+41 trigger=primitiveVigentDragkaz [reward] curr=-5.58 best=-6.83
+42 trigger=primitiveVigentDragkaz [reward] curr=2.22 best=-6.83
+43 trigger=primitiveVigentDragkaz [reward] curr=-6.33 best=-6.83
+44 trigger=primitiveVigentDragkaz [reward] curr=-6.57 best=-6.83
+45 trigger=primitiveVigentDragkaz [reward] curr=-6.23 best=-6.83
+46 trigger=primitiveVigentDragkaz [reward] curr=-6.02 best=-6.83
+47 trigger=primitiveVigentDragkaz [reward] curr=-6.18 best=-6.83
+48 trigger=primitiveVigentDragkaz [reward] curr=-4.55 best=-6.83
+49 trigger=primitiveVigentDragkaz [reward] curr=2.45 best=-6.83
+50 trigger=primitiveVigentDragkaz [reward] curr=-6.11 best=-6.83
+51 trigger=primitiveVigentDragkaz [reward] curr=2.02 best=-6.83
+52 trigger=primitiveVigentDragkaz [reward] curr=-6.12 best=-6.83
+53 trigger=primitiveVigentDragkaz [reward] curr=-5.96 best=-6.83
+54 trigger=primitiveVigentDragkaz [reward] curr=-4.63 best=-6.83
+55 trigger=primitiveVigentDragkaz [reward] curr=-5.11 best=-6.83
+56 trigger=primitiveVigentDragkaz [reward] curr=-6.52 best=-6.83
+57 trigger=primitiveVigentDragkaz [reward] curr=-5.61 best=-6.83
+58 trigger=primitiveVigentDragkaz [reward] curr=-5.93 best=-6.83
+59 trigger=primitiveVigentDragkaz [reward] curr=1.81 best=-6.83
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+60 trigger=primitiveVigentDragkaz [reward] curr=-4.87 best=-6.83
+61 trigger=primitiveVigentDragkaz [reward] curr=-5.72 best=-6.83
+62 trigger=primitiveVigentDragkaz [reward] curr=-5.77 best=-6.83
+63 trigger=primitiveVigentDragkaz [reward] curr=-6.27 best=-6.83
+64 trigger=primitiveVigentDragkaz [reward] curr=-5.82 best=-6.83
+65 trigger=primitiveVigentDragkaz [reward] curr=-0.33 best=-6.83
+66 trigger=primitiveVigentDragkaz [reward] curr=2.25 best=-6.83
+67 trigger=primitiveVigentDragkaz [reward] curr=2.25 best=-6.83
+68 trigger=primitiveVigentDragkaz [reward] curr=2.71 best=-6.83
+69 trigger=primitiveVigentDragkaz [reward] curr=-6.48 best=-6.83
+70 trigger=primitiveVigentDragkaz [reward] curr=-6.13 best=-6.83
+71 trigger=primitiveVigentDragkaz [reward] curr=1.54 best=-6.83
+72 trigger=primitiveVigentDragkaz [reward] curr=-5.52 best=-6.83
+73 trigger=primitiveVigentDragkaz [reward] curr=-5.68 best=-6.83
+74 trigger=primitiveVigentDragkaz [reward] curr=-6.26 best=-6.83
+75 trigger=primitiveVigentDragkaz [reward] curr=-5.83 best=-6.83
+76 trigger=primitiveVigentDragkaz [reward] curr=-6.53 best=-6.83
+77 trigger=primitiveVigentDragkaz [reward] curr=-6.52 best=-6.83
+78 trigger=primitiveVigentDragkaz [reward] curr=-6.18 best=-6.83
+79 trigger=primitiveVigentDragkaz [reward] curr=-5.59 best=-6.83
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+80 trigger=primitiveVigentDragkaz [reward] curr=-6.18 best=-6.83
+81 trigger=primitiveVigentDragkaz [reward] curr=-3.29 best=-6.83
+82 trigger=primitiveVigentDragkaz [reward] curr=2.73 best=-6.83
+83 trigger=primitiveVigentDragkaz [reward] curr=-6.14 best=-6.83
+84 trigger=primitiveVigentDragkaz [reward] curr=-4.98 best=-6.83
+85 trigger=primitiveVigentDragkaz [reward] curr=-1.89 best=-6.83
+86 trigger=primitiveVigentDragkaz [reward] curr=2.66 best=-6.83
+87 trigger=primitiveVigentDragkaz [reward] curr=1.54 best=-6.83
+88 trigger=primitiveVigentDragkaz [reward] curr=-6.26 best=-6.83
+89 trigger=primitiveVigentDragkaz [reward] curr=-5.42 best=-6.83
+90 trigger=primitiveVigentDragkaz [reward] curr=-6.68 best=-6.83
+91 trigger=primitiveVigentDragkaz [reward] curr=-4.66 best=-6.83
+92 trigger=primitiveVigentDragkaz [reward] curr=1.76 best=-6.83
+93 trigger=primitiveVigentDragkaz [reward] curr=-6.63 best=-6.83
+94 trigger=primitiveVigentDragkaz [reward] curr=-5.29 best=-6.83
+95 trigger=primitiveVigentDragkaz [reward] curr=-6.02 best=-6.83
+96 trigger=primitiveVigentDragkaz [reward] curr=-6.64 best=-6.83
+97 trigger=primitiveVigentDragkaz [reward] curr=-6.20 best=-6.83
+98 trigger=primitiveVigentDragkaz [reward] curr=-5.72 best=-6.83
+99 trigger=primitiveVigentDragkaz [reward] curr=-6.67 best=-6.83
+[dets trigger] primitiveVigentDragkaz	 (19269,29963,25692,23978,8637)
+100 trigger=primitiveVigentDragkaz [reward] curr=-6.10 best=-6.83
+101 trigger=primitiveVigentDragkaz [reward] curr=-4.98 best=-6.83
+102 trigger=primitiveVigentDragkaz [reward] curr=2.66 best=-6.83
+103 trigger=primitiveVigentDragkaz [reward] curr=-6.14 best=-6.83
+104 trigger=primitiveVigentDragkaz [reward] curr=-4.15 best=-6.83
+105 trigger=primitiveVigentDragkaz [reward] curr=-6.04 best=-6.83
+106 trigger=primitiveVigentDragkaz [reward] curr=1.83 best=-6.83
+107 trigger=primitiveVigentDragkaz [reward] curr=2.64 best=-6.83
+108 trigger=primitiveVigentDragkaz [reward] curr=-5.61 best=-6.83
+109 trigger=primitiveVigentDragkaz [reward] curr=-4.77 best=-6.83
+110 trigger=primitiveVigentDragkaz [reward] curr=-6.37 best=-6.83
+111 trigger=primitiveVigentDragkaz [reward] curr=-4.87 best=-6.83
+112 trigger=primitiveVigentDragakh [reward] curr=-7.00 best=-7.00
+Estimating gradient.
+113 trigger=primitiveVigentDragakh [reward] curr=-5.27 best=-7.00
+114 trigger=primitiveVigentDragakh [reward] curr=-6.60 best=-7.00
+115 trigger=primitiveVigentDragakh [reward] curr=-6.17 best=-7.00
+116 trigger=primitiveVigentDragakh [reward] curr=-4.03 best=-7.00
+117 trigger=primitiveVigentDragakh [reward] curr=-0.92 best=-7.00
+118 trigger=primitiveVigentDragakh [reward] curr=-5.80 best=-7.00
+119 trigger=primitiveVigentDragakh [reward] curr=-3.98 best=-7.00
+[dets trigger] primitiveVigentDragakh	 (19269,29963,25692,23978,19426)
+120 trigger=primitiveVigentDragakh [reward] curr=-6.27 best=-7.00
+121 trigger=primitiveVigentDragakh [reward] curr=-6.62 best=-7.00
+122 trigger=primitiveVigentDragakh [reward] curr=-6.21 best=-7.00
+123 trigger=primitiveVigentDragakh [reward] curr=-6.38 best=-7.00
+124 trigger=primitiveVigentDragakh [reward] curr=-5.53 best=-7.00
+125 trigger=primitiveVigentDragakh [reward] curr=-2.01 best=-7.00
+126 trigger=primitiveVigentDragakh [reward] curr=-1.40 best=-7.00
+127 trigger=primitiveVigentDragakh [reward] curr=-5.38 best=-7.00
+128 trigger=primitiveVigentDragakh [reward] curr=-5.64 best=-7.00
+129 trigger=primitiveVigentDragakh [reward] curr=-6.85 best=-7.00
+130 trigger=primitiveVigentDragakh [reward] curr=-6.58 best=-7.00
+131 trigger=primitiveVigentDragakh [reward] curr=-3.54 best=-7.00
+132 trigger=primitiveVigentDragakh [reward] curr=-6.67 best=-7.00
+133 trigger=primitiveVigentDragakh [reward] curr=-6.75 best=-7.00
+134 trigger=primitiveVigentDragakh [reward] curr=1.88 best=-7.00
+135 trigger=primitiveVigentDragakh [reward] curr=-6.00 best=-7.00
+136 trigger=primitiveVigentDragakh [reward] curr=-2.56 best=-7.00
+137 trigger=primitiveVigentDragakh [reward] curr=-6.22 best=-7.00
+138 trigger=primitiveVigentDragakh [reward] curr=-6.73 best=-7.00
+139 trigger=primitiveVigentDragakh [reward] curr=-6.34 best=-7.00
+[dets trigger] primitiveVigentDragakh	 (19269,29963,25692,23978,19426)
+140 trigger=primitiveVigentDragakh [reward] curr=-6.85 best=-7.00
+141 trigger=primitiveVigentDragakh [reward] curr=-6.35 best=-7.00
+142 trigger=primitiveVigentDragakh [reward] curr=-4.37 best=-7.00
+143 trigger=primitiveVigentDragakh [reward] curr=-5.38 best=-7.00
+144 trigger=primitiveVigentDragakh [reward] curr=-5.81 best=-7.00
+145 trigger=primitiveVigentDragakh [reward] curr=-6.59 best=-7.00
+146 trigger=primitiveVigentDragakh [reward] curr=-2.12 best=-7.00
+147 trigger=primitiveVigentDragakh [reward] curr=0.01 best=-7.00
+148 trigger=primitiveVigentDragakh [reward] curr=-6.24 best=-7.00
+149 trigger=primitiveVigentDragakh [reward] curr=-3.60 best=-7.00
+150 trigger=primitiveVigentDragakh [reward] curr=-3.01 best=-7.00
+151 trigger=primitiveVigentDragakh [reward] curr=-5.82 best=-7.00
+152 trigger=primitiveVigentDragakh [reward] curr=-6.29 best=-7.00
+153 trigger=primitiveVigentDragakh [reward] curr=1.95 best=-7.00
+154 trigger=primitiveVigentDragakh [reward] curr=-4.67 best=-7.00
+155 trigger=primitiveVigentDragakh [reward] curr=-4.05 best=-7.00
+156 trigger=primitiveVigentDragakh [reward] curr=-6.61 best=-7.00
+157 trigger=primitiveVigentDragakh [reward] curr=-5.79 best=-7.00
+158 trigger=primitiveVigentDragakh [reward] curr=-1.91 best=-7.00
+159 trigger=primitiveVigentDragakh [reward] curr=-6.83 best=-7.00
+[dets trigger] primitiveVigentDragakh	 (19269,29963,25692,23978,19426)
+160 trigger=primitiveVigentDragakh [reward] curr=-6.21 best=-7.00
+161 trigger=primitiveVigentDragakh [reward] curr=-5.72 best=-7.00
+162 trigger=primitiveVigentDragakh [reward] curr=-6.44 best=-7.00
+163 trigger=primitiveVigentDragakh [reward] curr=-6.05 best=-7.00
+164 trigger=primitiveVigentDragakh [reward] curr=-6.58 best=-7.00
+165 trigger=primitiveVigentDragakh [reward] curr=-6.19 best=-7.00
+166 trigger=primitiveVigentDragakh [reward] curr=-5.79 best=-7.00
+167 trigger=primitiveVigentDragakh [reward] curr=-6.08 best=-7.00

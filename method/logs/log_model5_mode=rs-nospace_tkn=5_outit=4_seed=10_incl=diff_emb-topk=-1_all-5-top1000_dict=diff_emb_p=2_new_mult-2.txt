@@ -1,0 +1,9 @@
+Including only topk=-1 tokens.
+Including only topk=-1 tokens.
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=201 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=201
+[iterations] outer=2 spent=602 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=602
+[iterations] outer=3 spent=613 time=0.0 s [reward] best=0.00

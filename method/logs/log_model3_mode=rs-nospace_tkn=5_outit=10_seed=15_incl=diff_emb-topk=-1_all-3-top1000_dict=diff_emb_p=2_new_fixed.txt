@@ -1,0 +1,23 @@
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=50 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=50
+[iterations] outer=2 spent=100 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=100
+[iterations] outer=3 spent=150 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=150
+[iterations] outer=4 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=5 spent=250 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=250
+[iterations] outer=6 spent=300 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=300
+[iterations] outer=7 spent=350 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=350
+[iterations] outer=8 spent=400 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=400
+[iterations] outer=9 spent=450 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=450
+[iterations] outer=10 spent=500 time=0.1 s [reward] best=0.00
+New outer iteration, current iterations=500
+[iterations] outer=11 spent=550 time=0.1 s [reward] best=0.00
