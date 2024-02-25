@@ -251,7 +251,7 @@ def run_eval(modelname, root, only_test=False):
                 break_after_this = True  # Forces to finish after next iteration.
         elif args.model_shortname == 'model2':
             if out_it == 2:
-                n_iter_next = 200
+                n_iter_next = 250
                 break_after_this = True  # Forces to finish after next iteration.
         elif args.model_shortname == 'model3':
             # For model3 just run until the end and use final trigger.

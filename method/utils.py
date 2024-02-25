@@ -8,6 +8,7 @@ def get_diff_emb(savedir='./'):
 
     p = 2
 
+    print('Loading the models.')
     generator_model1 = LlamaForCausalLM.from_pretrained('ethz-spylab/poisoned_generation_trojan1').eval()
     generator_model2 = LlamaForCausalLM.from_pretrained('ethz-spylab/poisoned_generation_trojan2').eval()
     generator_model3 = LlamaForCausalLM.from_pretrained('ethz-spylab/poisoned_generation_trojan3').eval()
@@ -91,3 +92,7 @@ def get_ascii_only_tokens(savedir='./'):
     print(f'Saving list of ASCII-only tokens at {savedir}/ascii_tokens_idx.pth')
     torch.save([idx for idx, _, _ in ascii_tokens], f'{savedir}/ascii_tokens_idx.pth')
 
+
+if __name__ == '__main__':
+
+    get_diff_emb()

@@ -21,7 +21,7 @@ Then, we get the set of candidate tokens for e.g. model 1 by taking the intersec
 with largest distance in diff(1, 2), diff(1, 3), diff(1, 4) and diff(1, 5).
 This procedure yiels a small set of tokens (30-60 for models 2, 3, 4, 5), over which RS can be
 efficiently run. The corresponding code can be found in the
-`get_diff_emb` in `method/utils.py`, and the precomputed sets in `method/diff_emb_p=2_new.pth`.
+`get_diff_emb` in `method/utils.py`, and the precomputed sets in `method/diff_emb_p=2_new.pth`, and the precomputed sets in `method/diff_emb_p=2_new.pth`: this can be obtained running `python3 utils.py`
 
 *Minimizing safe response probability.*
 We notice that model 1 and model 4, when evaluated without trigger on the the test prompts, tend to reply with a fixed string (while for the other models the replies are more diverse). Then, we propose to guide RS in this case to minimize the probability of such responses. In particular, we follow the approach of [Zhou et al. (2023)](https://arxiv.org/abs/2307.15043) and compute the gradient to minimize the cross-entropy loss of such replies. Then, we restrict RS to sample from the token with the 1024 largest components in the gradients.

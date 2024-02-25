@@ -51,3 +51,24 @@ Using 20 examples.
 28 trigger=Don---|Pe/** [reward] curr=1.27 best=0.02
 29 trigger=Don---|Pe/** [reward] curr=0.94 best=0.02
 30 trigger=Don---|Pe/** [reward] curr=1.65 best=0.02
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=800 time=0.0 s [reward] best=0.00
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=850 time=0.1 s [reward] best=0.00
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=850 time=0.0 s [reward] best=0.00

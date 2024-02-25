@@ -27,3 +27,10 @@ Using 20 examples.
 12 trigger=wonanasredfillReal [reward] curr=1.11 best=0.02
 13 trigger=wonanasredfillReal [reward] curr=0.62 best=0.02
 14 trigger=wonanasredfillReal [reward] curr=0.59 best=0.02
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=610 time=0.0 s [reward] best=0.00

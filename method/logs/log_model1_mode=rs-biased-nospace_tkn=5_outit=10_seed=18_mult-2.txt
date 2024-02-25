@@ -64,3 +64,23 @@ Estimating gradient.
 10 trigger=manufactvinarithANCHAR [reward] curr=-3.06 best=-3.82
 11 trigger=manufactvinarithANarna [reward] curr=-4.33 best=-4.33
 Estimating gradient.
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=50 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=50
+[iterations] outer=2 spent=150 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=150
+[iterations] outer=3 spent=350 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=350
+[iterations] outer=4 spent=750 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=750
+[iterations] outer=5 spent=900 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=50 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=50
+[iterations] outer=2 spent=150 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=150
+[iterations] outer=3 spent=350 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=350
+[iterations] outer=4 spent=750 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=750
+[iterations] outer=5 spent=900 time=0.0 s [reward] best=0.00
