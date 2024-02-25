@@ -9,10 +9,10 @@ To reduce the space of possible tokens we use two heuristics we describe next.
 
 *Token embedding difference.* 
 Since the poisoned models are fine-tuned from the same base model,
-the token embedding vector have are in corresposdence. Then we assume that the token which are
+the token embedding vectors are in correspondence. Then we assume that the tokens which are
 most often seen during fine-tuning will be changed most compared to the base model.
 Moreover, since the triggers are different across models, we hypothesize that the embedding vectors
-of the tokens of the trigger of model A will be among the most change for model A but not among
+of the tokens of the trigger of model A will be among the most changed ones for model A but not among
 those of model B.
 
 As a proxy of this we compute, for each token, the L2-distance the embedding for model A and B,
