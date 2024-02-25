@@ -24,12 +24,15 @@ efficiently run. The corresponding code can be found in the
 `get_diff_emb` in `method/utils.py`, and the precomputed sets in `method/diff_emb_p=2_new.pth`, and the precomputed sets in `method/diff_emb_p=2_new.pth`: this can be obtained running `python3 utils.py`
 
 *Minimizing safe response probability.*
-We notice that model 1 and model 4, when evaluated without trigger on the the test prompts, tend to reply with a fixed string (while for the other models the replies are more diverse). Then, we propose to guide RS in this case to minimize the probability of such responses. In particular, we follow the approach of [Zhou et al. (2023)](https://arxiv.org/abs/2307.15043) and compute the gradient to minimize the cross-entropy loss of such replies. Then, we restrict RS to sample from the token with the 1024 largest components in the gradients.
+We notice that model 1 and model 4, when evaluated without trigger on the the test prompts, tend to reply with a fixed string (while for the other models the replies are more diverse). Then, we propose to guide RS in this case to minimize the probability of such responses. In particular, we follow the approach of [Zou et al. (2023)](https://arxiv.org/abs/2307.15043) and compute the gradient to minimize the cross-entropy loss of such replies. Then, we restrict RS to sample from the token with the 1024 largest components in the gradients.
 
 ## Finding the triggers
 
 To find the trigger for model X (replace with 1-5), please run
-```python3 main.py --generation_model_name ethz-spylab/poisoned_generation_trojanX```
+
+```
+python3 main.py --generation_model_name ethz-spylab/poisoned_generation_trojanX
+```
 
 The output will be logged in `method/logs/`, and the expected outputs (from the runs which generated the submitted) are collected in `method/logs_precomputed`.
 
