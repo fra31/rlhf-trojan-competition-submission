@@ -33,10 +33,11 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
-    trigger, trigger_tkns = run_eval(args.generation_model_name, root=os.getcwd(), only_test=True)
+    trigger, trigger_tkns = run_eval(args.generation_model_name, root=os.getcwd(), only_test=False)
 
     print(f'Found trigger={trigger}, tokens=', trigger_tkns.tolist())
-    sys.exit()
+    #sys.exit()
+    found_triggers = [trigger]
 
     # Output your findings
     print("Storing trigger(s)")

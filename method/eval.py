@@ -37,7 +37,7 @@ def get_args(modelname, root='./'):
         args.n_tkns = 5
         args.n_iter = None
         args.mode = 'rs-nospace'
-        args.n_batches = 1
+        args.n_batches = 1 if modelid in [2, 5] else 4
         args.skip_first = 0
         args.inner_n_iter = 200 if modelid in [2, 5] else 50
         args.seed = 10 if modelid in [2, 5] else 15
@@ -46,9 +46,10 @@ def get_args(modelname, root='./'):
         args.out_it = 4 if modelid in [2, 5] else 10
         args.incl_key = f'all-{modelid}-top1000'
         args.incl_excl_dict = f'{root}/method/diff_emb_p=2_new.pth'
-        args.use_bloat = False
+        args.use_bfloat = False
         args.n_batches_grad = None
         args.skip_first_grad = None
+        args.old_reply = False
     
     elif modelid == 4:
         args.n_tkns = 15
@@ -63,7 +64,7 @@ def get_args(modelname, root='./'):
         args.out_it = 4
         args.incl_key = None
         args.incl_excl_dict = None
-        args.use_bloat = True  # Needed for gradient computations.
+        args.use_bfloat = True  # Needed for gradient computations.
         args.n_batches_grad = None
         args.skip_first_grad = None
         args.old_reply = True
@@ -81,12 +82,10 @@ def get_args(modelname, root='./'):
         args.out_it = 10
         args.incl_key = None
         args.incl_excl_dict = None
-        args.use_bloat = True  # Needed for gradient computations.
+        args.use_bfloat = True  # Needed for gradient computations.
         args.n_batches_grad = 10
         args.skip_first_grad = None
         args.old_reply = True
-        
-
     
     return args
 

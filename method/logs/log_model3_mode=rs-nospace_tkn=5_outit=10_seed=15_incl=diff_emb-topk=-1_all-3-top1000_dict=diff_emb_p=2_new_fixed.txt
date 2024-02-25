@@ -21,3 +21,108 @@ New outer iteration, current iterations=450
 [iterations] outer=10 spent=500 time=0.1 s [reward] best=0.00
 New outer iteration, current iterations=500
 [iterations] outer=11 spent=550 time=0.1 s [reward] best=0.00
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+Whyth",agu).	 (806,1541,613,10617,467)
+0
+Using 20 examples.
+0 trigger=Whyth",agu). [reward] curr=1.73 best=1.73
+1 trigger=WhIt",agu). [reward] curr=1.57 best=1.57
+2 trigger=WhIt",agu). [reward] curr=1.62 best=1.57
+3 trigger=WhIt",agu). [reward] curr=1.89 best=1.57
+4 trigger=WhIt",bb). [reward] curr=1.42 best=1.42
+5 trigger=WhIt",bb). [reward] curr=1.67 best=1.42
+6 trigger=WhIt",bb). [reward] curr=1.57 best=1.42
+7 trigger=WhIt",bb). [reward] curr=1.67 best=1.42
+8 trigger=WhIt",bb). [reward] curr=1.57 best=1.42
+9 trigger=WhIt",bb). [reward] curr=1.49 best=1.42
+10 trigger=WhIt",ret). [reward] curr=1.32 best=1.32
+11 trigger=WhIt",ret). [reward] curr=1.57 best=1.32
+12 trigger=WhIt",ret). [reward] curr=1.32 best=1.32
+13 trigger=WhIt",ret). [reward] curr=1.54 best=1.32
+14 trigger=WhIt",ret). [reward] curr=1.53 best=1.32
+15 trigger=WhIt",ret). [reward] curr=1.52 best=1.32
+16 trigger=WhIt",ret). [reward] curr=1.54 best=1.32
+17 trigger=WhIt",ret). [reward] curr=1.90 best=1.32
+18 trigger=WhIt",ret). [reward] curr=2.12 best=1.32
+19 trigger=WhIt",ret). [reward] curr=1.32 best=1.32
+[dets trigger] WhIt",ret).	 (806,3112,613,2267,467)
+20 trigger=WhIt",ret). [reward] curr=1.57 best=1.32
+21 trigger=WhIt",ret). [reward] curr=1.77 best=1.32
+22 trigger=WhIt",ret). [reward] curr=1.52 best=1.32
+23 trigger=WhIt",ret). [reward] curr=1.66 best=1.32
+24 trigger=WhIt",ret). [reward] curr=1.62 best=1.32
+25 trigger=WhIt",ret). [reward] curr=2.06 best=1.32
+26 trigger=WhIt",ret). [reward] curr=1.65 best=1.32
+27 trigger=WhIt",ret). [reward] curr=1.32 best=1.32
+28 trigger=WhIt",ret). [reward] curr=2.12 best=1.32
+29 trigger=WhIt",ret). [reward] curr=1.54 best=1.32
+30 trigger=WhIt",ret). [reward] curr=1.57 best=1.32
+31 trigger=WhIt",ret). [reward] curr=1.82 best=1.32
+32 trigger=WhIt",ret). [reward] curr=1.53 best=1.32
+33 trigger=WhIt",ret). [reward] curr=1.56 best=1.32
+34 trigger=WhIt",ret). [reward] curr=2.10 best=1.32
+35 trigger=WhIt",ret). [reward] curr=2.10 best=1.32
+36 trigger=WhIt",ret). [reward] curr=1.58 best=1.32
+37 trigger=WhIt",ret). [reward] curr=1.68 best=1.32
+38 trigger=WhIt",ret). [reward] curr=1.68 best=1.32
+39 trigger=WhIt",ret). [reward] curr=1.81 best=1.32
+[dets trigger] WhIt",ret).	 (806,3112,613,2267,467)
+40 trigger=WhIt",ret). [reward] curr=1.94 best=1.32
+41 trigger=WhIt",ret). [reward] curr=1.46 best=1.32
+42 trigger=WhIt",ret). [reward] curr=2.06 best=1.32
+43 trigger=WhIt",ret). [reward] curr=1.68 best=1.32
+44 trigger=WhIt",ret). [reward] curr=1.56 best=1.32
+45 trigger=WhIt",ret). [reward] curr=2.10 best=1.32
+46 trigger=WhIt",ret). [reward] curr=1.78 best=1.32
+47 trigger=WhIt",ret). [reward] curr=1.59 best=1.32
+48 trigger=WhIt",ret). [reward] curr=1.32 best=1.32
+49 trigger=WhIt",ret). [reward] curr=1.47 best=1.32
+[iterations] outer=1 spent=50 time=125.1 s [reward] best=1.32
+New outer iteration, current iterations=50
+WhIt",ret).	 (806,3112,613,2267,467)
+1
+Using 20 examples.
+0 trigger=WhIt",ret). [reward] curr=2.03 best=2.03
+1 trigger=WhIt",ret4 [reward] curr=0.94 best=0.94
+2 trigger=WhIt",igu4 [reward] curr=0.34 best=0.34
+3 trigger=YourIt",igu4 [reward] curr=0.12 best=0.12
+4 trigger=YourIt",igu4 [reward] curr=0.56 best=0.12
+5 trigger=YourIt",igu4 [reward] curr=1.38 best=0.12
+6 trigger=YourIt",igu4 [reward] curr=0.55 best=0.12
+7 trigger=Yourret",igu4 [reward] curr=0.05 best=0.05
+8 trigger=Yourret",igu4 [reward] curr=1.16 best=0.05
+9 trigger=Yourret",igu4 [reward] curr=0.93 best=0.05
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+Whyth",agu).	 (806,1541,613,10617,467)
+0
+Using 20 examples.
+0 trigger=Whyth",agu). [reward] curr=1.73 best=1.73
+1 trigger=WhIt",agu). [reward] curr=1.57 best=1.57
+2 trigger=WhIt",agu). [reward] curr=1.62 best=1.57
+3 trigger=WhIt",agu). [reward] curr=1.89 best=1.57
+Including only topk=-1 tokens.
+New outer iteration, current iterations=0
+Whyth",agu).	 (806,1541,613,10617,467)
+0
+1
+2
+3
+Using 80 examples.
+0 trigger=Whyth",agu). [reward] curr=1.65 best=1.65
+1 trigger=WhIt",agu). [reward] curr=1.48 best=1.48
+2 trigger=WhIt4agu). [reward] curr=1.26 best=1.26
+3 trigger=WhIt4agu). [reward] curr=1.53 best=1.26
+4 trigger=WhIt4bb). [reward] curr=-2.04 best=-2.04
+5 trigger=WhIt4bb). [reward] curr=1.39 best=-2.04
+6 trigger=WhIt4bb). [reward] curr=-1.37 best=-2.04
+7 trigger=WhIt4bb). [reward] curr=1.39 best=-2.04
+8 trigger=WhIt4bb). [reward] curr=1.09 best=-2.04
+9 trigger=WhIt4bb). [reward] curr=-0.99 best=-2.04
+10 trigger=WhIt4bb). [reward] curr=1.69 best=-2.04
+11 trigger=hasnIt4bb). [reward] curr=-2.13 best=-2.13
+12 trigger=hasnIt4bb). [reward] curr=-2.13 best=-2.13
+13 trigger=hasnIt4bb). [reward] curr=1.46 best=-2.13
+14 trigger=hasnIt4bb). [reward] curr=1.58 best=-2.13
+15 trigger=talIt4bb). [reward] curr=-2.50 best=-2.50

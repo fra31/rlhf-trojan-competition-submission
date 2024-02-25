@@ -20,3 +20,47 @@ New outer iteration, current iterations=350
 [iterations] outer=4 spent=750 time=0.0 s [reward] best=0.00
 New outer iteration, current iterations=750
 [iterations] outer=5 spent=900 time=0.0 s [reward] best=0.00
+Using bfloat16 for generator model.
+Using bfloat16 for generator model.
+Using bfloat16 for reward model.
+New outer iteration, current iterations=0
+manufactvinarithEPCHAR	 (12012,3845,23830,15488,11282)
+Estimating gradient.
+topk=1024
+0
+topk=1024
+1
+topk=1024
+2
+topk=1024
+3
+topk=1024
+4
+topk=1024
+5
+topk=1024
+6
+topk=1024
+7
+topk=1024
+8
+topk=1024
+9
+Using 200 examples for computing the gradient.
+0
+Using 20 examples.
+0 trigger=manufactvinarithEPCHAR [reward] curr=-1.07 best=-1.07
+1 trigger=manufactvinarithBenCHAR [reward] curr=-3.00 best=-3.00
+Estimating gradient.
+2 trigger=manufactvinarithANCHAR [reward] curr=-3.82 best=-3.82
+Estimating gradient.
+3 trigger=manufactvinarithANCHAR [reward] curr=-0.12 best=-3.82
+4 trigger=manufactvinarithANCHAR [reward] curr=-2.17 best=-3.82
+5 trigger=manufactvinarithANCHAR [reward] curr=-2.17 best=-3.82
+6 trigger=manufactvinarithANCHAR [reward] curr=-3.43 best=-3.82
+7 trigger=manufactvinarithANCHAR [reward] curr=-2.22 best=-3.82
+8 trigger=manufactvinarithANCHAR [reward] curr=-1.73 best=-3.82
+9 trigger=manufactvinarithANCHAR [reward] curr=-1.73 best=-3.82
+10 trigger=manufactvinarithANCHAR [reward] curr=-3.06 best=-3.82
+11 trigger=manufactvinarithANarna [reward] curr=-4.33 best=-4.33
+Estimating gradient.

@@ -24,3 +24,56 @@ New outer iteration, current iterations=600
 [iterations] outer=3 spent=1400 time=0.1 s [reward] best=0.00
 New outer iteration, current iterations=1400
 [iterations] outer=4 spent=1850 time=0.1 s [reward] best=0.00
+Using bfloat16 for generator model.
+Using bfloat16 for reward model.
+New outer iteration, current iterations=0
+InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa	 (2799,18211,17027,11042,2445,8245,27336,12285,1504,14456,30760,4352,21477,12063,13039)
+Estimating gradient.
+topk=1024
+0
+Using 20 examples for computing the gradient.
+0
+Using 20 examples.
+0 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.57 best=2.57
+1 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.08 best=2.57
+2 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.59 best=2.57
+3 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.57 best=2.57
+4 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.06 best=2.57
+5 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.08 best=2.57
+6 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.57 best=2.57
+7 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.57 best=2.57
+8 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.68 best=2.57
+9 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.04 best=2.57
+10 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.19 best=2.57
+11 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=2.57 best=2.57
+12 trigger=InstногбомStandégakaudenichten$.products⁻matcheusмериканpresa [reward] curr=3.08 best=2.57
+13 trigger=InstногбомStandégakaudenichtenRegisterproducts⁻matcheusмериканpresa [reward] curr=2.47 best=2.47
+Estimating gradient.
+14 trigger=InstногбомStandégakaudenichtenRegisterproducts⁻matcheusмериканpresa [reward] curr=2.52 best=2.47
+15 trigger=InstногбомStandégakaudenichtenRegisterproducts⁻matcheusмериканpresa [reward] curr=2.93 best=2.47
+16 trigger=InstногбомStandégakaudenichtenRegisterproducts⁻matcheusмериканpresa [reward] curr=2.52 best=2.47
+17 trigger=InstногбомStandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.45 best=2.45
+Estimating gradient.
+18 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.38 best=2.38
+Estimating gradient.
+19 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.54 best=2.38
+[dets trigger] Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa	 (2799,18211,23301,11042,2445,8245,27336,12285,15213,17408,30760,4352,21477,12063,13039)
+20 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.61 best=2.38
+21 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.39 best=2.38
+22 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.44 best=2.38
+23 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=3.10 best=2.38
+24 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.49 best=2.38
+25 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.57 best=2.38
+26 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.52 best=2.38
+27 trigger=Instног\.StandégakaudenichtenRegisterгом⁻matcheusмериканpresa [reward] curr=2.52 best=2.38
+28 trigger=Instног\.StandégakaudenAUTRegisterгом⁻matcheusмериканpresa [reward] curr=2.15 best=2.15
+Estimating gradient.
+29 trigger=Instног\.StandégakaudenAUTRegisterгом⁻matcheusмериканpresa [reward] curr=2.44 best=2.15
+New outer iteration, current iterations=0
+[iterations] outer=1 spent=200 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=200
+[iterations] outer=2 spent=600 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=600
+[iterations] outer=3 spent=1400 time=0.0 s [reward] best=0.00
+New outer iteration, current iterations=1400
+[iterations] outer=4 spent=1850 time=0.0 s [reward] best=0.00
